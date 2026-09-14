@@ -1,0 +1,135 @@
+organism_name	assembly_accession	assembly_level	fragmentation	genome_size_mb	gc_percent	contig_count	contig_n50_kb	scaffold_n50_kb
+Colletotrichum abscissum	GCF_030869225.1	Scaffold	Moderate	53.936108	51	565	962.862	962.862
+Colletotrichum acutatum	GCA_057627645.1	Scaffold	Moderate	50.555966	51.5	120	718.963	1215.904
+Colletotrichum adenophorae	GCA_058130455.1	Scaffold	Moderate	48.440355	51	421	244.637	280.821
+Colletotrichum aenigma	GCF_013390185.1	Contig	Low	59.189926	52.5	79	5181.253	5181.253
+Colletotrichum agaves	GCA_036785465.1	Contig	High	71.384446	40.5	10921	73.877	73.877
+Colletotrichum asianum	GCA_009806415.1	Scaffold	Moderate	64.731264	49.5	501	381.785	389.703
+Colletotrichum australisinense (nom. inval.)	GCA_014706365.1	Contig	Low	55.304262	51.5	28	5698.484	5698.484
+Colletotrichum baiyuense	GCA_058130435.1	Scaffold	Moderate	50.452817	53.5	953	186.805	194.084
+Colletotrichum brevisporum	GCA_030770045.1	Contig	Low	62.659034	49	18	7932.807	7932.807
+Colletotrichum camelliae	GCA_011947485.2	Scaffold	Moderate	57.798682	49.5	706	162.123	198.072
+Colletotrichum cangyuanense	GCA_056956895.1	Scaffold	High	58.375145	52.5	1721	112.03	112.631
+Colletotrichum casaense	GCA_058130395.1	Scaffold	High	50.297763	53.5	1548	132.416	136.006
+Colletotrichum caudatum	GCA_030867225.1	Scaffold	High	44.202764	55	1630	62.71	94.998
+Colletotrichum cereale	GCA_060231475.1	Complete Genome	Low	57.980704	53	13	5437.37	5437.37
+Colletotrichum chlorophyti	GCA_001937105.1	Scaffold	High	52.387045	50	3613	164.384	644.295
+Colletotrichum chrysophilum	GCA_031006325.1	Scaffold	Moderate	55.557938	53.5	1536	85.481	86.538
+Colletotrichum cliviicola	GCA_026119605.1	Contig	Low	52.051982	55.5	9	6464.197	6464.197
+Colletotrichum coccodes	GCA_002249775.1	Scaffold	Moderate	50.121991	54	827	294.833	342.28
+Colletotrichum cordylinicola	GCA_027406065.1	Contig	Low	61.624325	49.5	20	5282.153	5282.153
+Colletotrichum costaricense	GCF_030867565.1	Scaffold	Low	51.625248	51.5	73	2423.109	2423.109
+Colletotrichum cuscutae	GCA_030869315.1	Scaffold	Moderate	80.453496	41.5	326	514.068	514.068
+Colletotrichum demersi	GCA_056956775.1	Scaffold	Moderate	53.649156	52.5	755	537.969	561.899
+Colletotrichum destructivum	GCF_034447905.1	Complete Genome	Low	51.750812	54.5	12	5290.227	5290.227
+Colletotrichum dianense	GCA_058130415.1	Scaffold	Moderate	52.000069	53	677	554.497	581.006
+Colletotrichum dimorphum	GCA_058130375.1	Scaffold	Moderate	61.354543	51.5	1052	376.348	388.421
+Colletotrichum echinochloae	GCA_016618095.1	Contig	Low	62.246358	46.5	21	5346.453	5346.453
+Colletotrichum eleusines	GCA_016807845.1	Contig	Low	53.507824	51	15	5135.075	5135.075
+Colletotrichum endophyticum	GCA_047496665.1	Contig	Low	57.430559	52	19	4432.404	4432.404
+Colletotrichum eremochloae	GCA_030867245.1	Scaffold	Moderate	47.21089	52.5	547	221.499	352.689
+Colletotrichum euphorbiae	GCA_037178605.1	Contig	High	66.282202	46.5	2250	98.703	98.703
+Colletotrichum falcatum	GCA_030867235.1	Scaffold	High	49.085377	53	1664	65.93	90.754
+Colletotrichum filicis	GCA_023376865.1	Scaffold	Moderate	62.965231	46	369	322.147	325.017
+Colletotrichum fioriniae	GCF_027942845.1	Scaffold	Low	49.445812	52	47	2983.733	2983.733
+Colletotrichum fioriniae PJ7	GCF_000582985.1	Scaffold	High	49.002765	NA	3756	34.93	137.254
+Colletotrichum fructicola	GCA_039271565.1	Complete Genome	Low	56.410981	53	11	4894.412	4894.412
+Colletotrichum fructicola Nara gc5	GCF_000319635.2	Contig	Low	59.542867	53	12	5461.344	5461.344
+Colletotrichum gardeniae	GCA_047496645.1	Contig	Low	63.335798	50	32	4131.996	4131.996
+Colletotrichum garzense	GCA_058130335.1	Scaffold	Moderate	49.886759	53.5	1284	126.15	127.393
+Colletotrichum gigasporum	GCA_024584535.1	Complete Genome	Low	86.997423	48	10	9214.307	9214.307
+Colletotrichum gloeosporioides	GCF_011800055.1	Scaffold	Moderate	61.904035	51	541	429.093	709.944
+Colletotrichum gloeosporioides 23	GCA_021432615.1	Scaffold	Moderate	58.838139	52.5	774	177.473	2304.31
+Colletotrichum gloeosporioides Cg-14	GCA_000446055.1	Contig	High	53.209944	53.5	4537	25.337	25.337
+Colletotrichum godetiae	GCA_057627445.1	Scaffold	Moderate	50.479061	51.5	351	275.039	569.701
+Colletotrichum gracile	GCA_058130355.1	Scaffold	Moderate	56.40847	53	587	425.791	471.901
+Colletotrichum graminicola	GCA_029226625.1	Chromosome	Low	57.426633	46	18	5007.504	6444.216
+Colletotrichum graminicola M1.001	GCF_000149035.1	Scaffold	Moderate	51.604658	49	1151	228.959	579.194
+Colletotrichum higginsianum	GCA_000313795.2	Scaffold	High	49.084868	55	10282	6.147	6.147
+Colletotrichum higginsianum IMI 349063	GCF_001672515.1	Chromosome	Low	50.716103	54.5	25	5201.688	5201.688
+Colletotrichum horii	GCA_027406005.1	Contig	Low	68.458539	46.5	17	8175.915	8175.915
+Colletotrichum incanum	GCA_001625285.1	Scaffold	High	53.597417	52	2908	177.164	177.164
+Colletotrichum jiangxiense	GCA_047496555.1	Contig	Low	57.568999	52.5	14	5020.161	5020.161
+Colletotrichum jinshuiense	GCF_051148585.1	Complete Genome	Low	52.104089	53	15	5052.393	5052.393
+Colletotrichum kahawae	GCA_032988895.1	Scaffold	Moderate	59.071264	52.5	1173	133.039	199.181
+Colletotrichum karsti	GCF_011947395.1	Scaffold	Moderate	51.850041	52.5	203	460.919	857.663
+Colletotrichum ledebouriae	GCA_036785755.1	Contig	High	145.951786	36.5	12360	34.954	34.954
+Colletotrichum lentis	GCA_003386485.1	Scaffold	High	56.100083	50	2980	50.944	4891.426
+Colletotrichum liaoningense	GCA_027406045.1	Contig	Low	51.853301	52	13	4641.664	4641.664
+Colletotrichum limetticola	GCA_030413865.1	Scaffold	High	50.48387	53	1808	67.018	68.638
+Colletotrichum lindemuthianum	GCA_001693025.3	Scaffold	Moderate	100.390507	37.5	120	2180.353	2180.353
+Colletotrichum lini	GCA_043790985.1	Complete Genome	Low	53.648951	54	12	5803.347	5803.347
+Colletotrichum liriopes	GCA_029035315.1	Scaffold	Moderate	88.115172	51	1304	431.47	544.794
+Colletotrichum lupini	GCF_023278565.1	Complete Genome	Low	63.407421	46.5	11	7871.922	7871.922
+Colletotrichum magnum	GCA_022457145.1	Scaffold	Moderate	57.112935	50.5	684	155.486	159.803
+Colletotrichum melonis	GCA_030868995.1	Scaffold	Moderate	50.135825	52	110	2830.39	2830.39
+Colletotrichum menglaense	GCA_058130315.1	Scaffold	Moderate	59.140509	52	207	907.18	989
+Colletotrichum musae	GCA_027406025.1	Contig	Low	60.479243	49.5	14	6123.291	6123.291
+Colletotrichum musicola	GCA_014235935.1	Scaffold	High	52.725698	55	2791	41.073	46.381
+Colletotrichum nanhuaense	GCA_056956795.1	Scaffold	Moderate	60.094826	51.5	389	688.666	785.038
+Colletotrichum navitas	GCF_030913465.1	Contig	Moderate	52.434554	48.5	702	318.299	318.299
+Colletotrichum neosansevieriae	GCA_036785495.1	Contig	Moderate	78.944493	40.5	1347	179.132	179.132
+Colletotrichum nigrum	GCA_059628155.1	Contig	Moderate	51.345418	53.5	1460	536.066	536.066
+Colletotrichum noveboracense	GCA_026319155.1	Scaffold	Moderate	58.178553	52.5	1054	148.12	168.995
+Colletotrichum nupharicola	GCA_026319135.1	Contig	High	58.756237	52.5	1734	137.573	137.573
+Colletotrichum nymphaeae	GCA_057627725.1	Scaffold	Low	50.196644	52	24	3502.845	6143.361
+Colletotrichum nymphaeae SA-01	GCA_001563115.1	Scaffold	High	49.956273	53	2247	75.338	91.051
+Colletotrichum oblongisporum	GCA_056956705.1	Scaffold	Moderate	57.259983	52.5	431	349.76	368.585
+Colletotrichum orbiculare MAFF 240422	GCA_000350065.2	Scaffold	High	89.748316	37.5	6664	50.717	2078.754
+Colletotrichum orchidophilum	GCF_001831195.1	Scaffold	Moderate	48.556462	51	328	284.473	284.473
+Colletotrichum paranaense	GCF_030867605.1	Contig	Low	49.177916	52	36	3374.443	3374.443
+Colletotrichum parvisporum	GCA_058130295.1	Scaffold	Moderate	58.8665	51.5	435	387.412	457.306
+Colletotrichum philoxeroidis	GCA_058130275.1	Scaffold	Moderate	51.892147	52.5	229	482.802	499.5
+Colletotrichum phormii	GCF_030913505.1	Contig	Low	51.66617	52.5	71	1798.794	1798.794
+Colletotrichum plurivorum	GCA_014235945.1	Scaffold	Moderate	49.70365	56	1169	112.734	130.438
+Colletotrichum salicis	GCA_001563125.1	Scaffold	High	48.373413	53	5121	25.648	46.166
+Colletotrichum sansevieriae	GCA_026260285.1	Scaffold	High	98.568926	42	3311	63.895	73.168
+Colletotrichum scovillei	GCA_026540245.1	Scaffold	Low	52.197969	52	17	4391.179	4391.179
+Colletotrichum shisoi	GCA_006783085.1	Scaffold	High	69.667657	46.5	27161	8.23	14.839
+Colletotrichum siamense	GCA_038023885.1	Complete Genome	Low	56.819887	52.5	10	6661.935	6661.935
+Colletotrichum sidae	GCA_004367935.1	Scaffold	High	86.827816	38	14933	36.815	39.31
+Colletotrichum simmondsii	GCA_057627585.1	Scaffold	Moderate	50.862996	51.5	139	728.524	1324.017
+Colletotrichum sojae	GCA_057924145.1	Scaffold	Moderate	50.237763	55	818	157.304	183.279
+Colletotrichum somersetense	GCA_030867255.1	Scaffold	Moderate	53.66727	50	1403	117.922	180.118
+Colletotrichum sp. AMP-2025a	GCA_059792015.1	Scaffold	High	77.364018	41	2075	142.314	176.399
+Colletotrichum sp. CLE4	GCA_044063575.1	Scaffold	Moderate	48.026924	52.5	363	237.235	506.655
+Colletotrichum sp. COLG25	GCA_009801095.1	Scaffold	Moderate	56.915549	52.5	182	714.863	5370.971
+Colletotrichum sp. COLG31	GCA_009800995.1	Scaffold	Moderate	53.760195	52.5	722	162.796	4980.158
+Colletotrichum sp. HC278	GCA_014705495.1	Scaffold	High	53.185075	53.5	16948	5.545	8.48
+Colletotrichum sp. HC292	GCA_014705525.1	Scaffold	High	54.637437	53.5	6973	18.742	29.983
+Colletotrichum sp. JS-367	GCA_003122705.1	Scaffold	Low	87.19653	47.5	70	8071.359	8071.359
+Colletotrichum sp. SAR 10_65	GCA_025328335.1	Contig	Moderate	59.66488	51.5	1174	121.239	121.239
+Colletotrichum sp. SAR 10_66	GCA_028639655.1	Contig	Moderate	61.044235	51	1334	114.296	114.296
+Colletotrichum sp. SAR 10_70	GCA_025327165.1	Scaffold	Moderate	59.535609	51.5	1014	132.84	132.84
+Colletotrichum sp. SAR 10_71	GCA_025327135.1	Scaffold	Moderate	59.858058	51.5	1200	118.449	118.449
+Colletotrichum sp. SAR 10_75	GCA_025327155.1	Scaffold	Moderate	60.807691	51.5	1046	142.26	143.811
+Colletotrichum sp. SAR 10_76	GCA_025327145.1	Contig	Moderate	60.132265	51	1215	115.369	115.369
+Colletotrichum sp. SAR 10_77	GCA_025330015.1	Scaffold	Moderate	60.54151	51.5	1171	116.32	116.32
+Colletotrichum sp. SAR 10_86	GCA_025327125.1	Scaffold	High	60.72252	51.5	1704	96.072	96.072
+Colletotrichum sp. SAR 10_96	GCA_025329375.1	Contig	High	56.155263	52.5	1569	100.534	100.534
+Colletotrichum sp. SAR 10_98	GCA_025329385.1	Contig	Moderate	56.034424	52.5	1197	116.1	116.1
+Colletotrichum sp. SAR 10_99	GCA_028654355.1	Scaffold	Moderate	56.736506	52.5	1373	99.053	99.053
+Colletotrichum sp. SAR11_239	GCA_025328985.1	Scaffold	Moderate	58.100508	52	1160	145.788	145.788
+Colletotrichum sp. SAR11_240	GCA_025328625.1	Scaffold	Moderate	60.035199	51.5	1034	134.203	134.203
+Colletotrichum sp. SAR11_57	GCA_025328355.1	Scaffold	High	55.451972	53	1795	97.317	97.546
+Colletotrichum sp. SAR11_59	GCA_025328345.1	Scaffold	High	65.090038	49	2878	80.323	80.713
+Colletotrichum spaethianum	GCF_022836535.1	Contig	Low	50.915707	51	84	1120.47	1120.47
+Colletotrichum speciosum	GCA_058130255.1	Scaffold	Low	49.630115	52.5	76	2047.185	2406.244
+Colletotrichum spicati	GCA_058130235.1	Scaffold	Moderate	53.071071	53	604	566.587	640.552
+Colletotrichum spinosum	GCA_004366825.1	Scaffold	High	82.734851	38.5	10895	56.12	93.593
+Colletotrichum subhenanense	GCA_058130215.1	Scaffold	Moderate	58.863695	52	1228	323.542	328.529
+Colletotrichum sublineola	GCA_030867325.1	Scaffold	High	46.916122	53	1675	63.545	83.759
+Colletotrichum tabaci	GCA_036851105.1	Contig	Low	52.145981	54	58	3611.167	3611.167
+Colletotrichum tamarilloi	GCF_030869305.1	Scaffold	Moderate	52.071711	51	605	410.822	410.822
+Colletotrichum tanaceti	GCA_005350895.1	Scaffold	High	57.912474	49.5	6408	36.517	103.135
+Colletotrichum tengchongense	GCA_058130175.1	Scaffold	Moderate	56.964709	52.5	602	338.523	355.482
+Colletotrichum theobromicola	GCA_057627875.1	Scaffold	Moderate	56.137359	52.5	325	395.011	544.046
+Colletotrichum tofieldiae	GCA_001618735.1	Scaffold	Moderate	53.216229	52.5	477	364.528	364.528
+Colletotrichum trifolii	GCA_004367215.1	Scaffold	High	109.659959	36.5	16095	26.965	35.434
+Colletotrichum tropicale	GCA_060697215.1	Scaffold	Moderate	56.660673	52.5	149	690.988	1054.543
+Colletotrichum tropicicola	GCA_025962755.1	Scaffold	Moderate	55.108579	54.5	1074	113.007	120.602
+Colletotrichum truncatum	GCA_011947275.1	Scaffold	Moderate	44.146251	49.5	1396	58.895	1509.49
+Colletotrichum viniferum	GCA_013201765.1	Scaffold	High	68.452207	47	6103	107.975	144.434
+Colletotrichum vulgaris	GCA_058130195.1	Scaffold	Moderate	49.165815	54	1316	127.419	136.893
+Colletotrichum yuanjiangense	GCA_058130155.1	Scaffold	Moderate	57.718958	52	849	484.413	496.558
+Colletotrichum zoysiae	GCA_030867305.1	Scaffold	Moderate	46.533813	54	840	129.783	179.109

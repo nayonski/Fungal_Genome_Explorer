@@ -1,0 +1,11 @@
+organism_name	assembly_accession	assembly_level	genome_size_mb	contig_count	contig_n50_kb
+Colletotrichum shisoi	GCA_006783085.1	Scaffold	69.667657	27161	8.23
+Colletotrichum sp. HC278	GCA_014705495.1	Scaffold	53.185075	16948	5.545
+Colletotrichum trifolii	GCA_004367215.1	Scaffold	109.659959	16095	26.965
+Colletotrichum sidae	GCA_004367935.1	Scaffold	86.827816	14933	36.815
+Colletotrichum ledebouriae	GCA_036785755.1	Contig	145.951786	12360	34.954
+Colletotrichum agaves	GCA_036785465.1	Contig	71.384446	10921	73.877
+Colletotrichum spinosum	GCA_004366825.1	Scaffold	82.734851	10895	56.12
+Colletotrichum higginsianum	GCA_000313795.2	Scaffold	49.084868	10282	6.147
+Colletotrichum sp. HC292	GCA_014705525.1	Scaffold	54.637437	6973	18.742
+Colletotrichum orbiculare MAFF 240422	GCA_000350065.2	Scaffold	89.748316	6664	50.717

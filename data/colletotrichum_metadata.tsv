@@ -1,0 +1,466 @@
+Assembly Accession	Organism Name	Organism Infraspecific Names Strain	Assembly Stats Total Sequence Length	Assembly Stats GC Percent	Assembly Stats Number of Contigs	Assembly Stats Contig N50	Assembly Stats Scaffold N50	Assembly Level	Assembly Sequencing Tech	Assembly BioProject Accession	Assembly BioSample Host	Assembly BioSample Geographic location	Assembly BioSample Collection date
+GCF_030869225.1	Colletotrichum abscissum	IMI 504890	53936108	51	565	962862	962862	Scaffold	Illumina MiSeq	PRJNA350894	Citrus sinensis	USA: Florida	2000
+GCA_023376855.1	Colletotrichum abscissum	Ca142	54001896	51	488	275403	321765	Scaffold	Illumina MiSeq	PRJNA516018	Citrus sinensis	Brazil: Sao Paulo, Santa Cruz do Rio Pardo	2008
+GCA_030869225.1	Colletotrichum abscissum	IMI 504890	53936108	51	565	962862	962862	Scaffold	Illumina MiSeq	PRJNA350894	Citrus sinensis	USA: Florida	2000
+GCA_047371005.1	Colletotrichum abscissum	LW-VAL-2A	53602113	51	50	4528207	4528207	Contig	PacBio RSII	PRJNA687367	Citrus sinensis	USA: Lake Wales, Polk County, Florida	2016
+GCF_030867785.1	Colletotrichum acutatum	CBS 112980	49057477	52	389	299511	299511	Contig	PacBio	PRJNA334354	not applicable	missing	missing
+GCA_001662755.1	Colletotrichum acutatum	C71	44919977	51.5	9732	12423	37362	Scaffold	Illumina HiScan SQ	PRJNA314187	Olea europaea	Italy: Apulia	2012-11-03
+GCA_019022555.1	Colletotrichum acutatum	hn1205-2	51601721	52	1394	166800	215683	Scaffold	Illumina HiSeq	PRJNA690880	Hevea brasiliensis Muell.-Arg	China:Danzhou	2012-05
+GCA_020457905.1	Colletotrichum acutatum	42883	49697799	52	1879	62028	62028	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2001
+GCA_020457915.1	Colletotrichum acutatum	42878	49531067	52.5	2061	59120	59120	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	1997
+GCA_020457925.1	Colletotrichum acutatum	42879	49885583	52	2026	63304	63304	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	1998
+GCA_020458275.1	Colletotrichum acutatum	42877	48338876	52.5	2034	50472	50472	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2001
+GCA_020458295.1	Colletotrichum acutatum	42876	49423995	52	2072	54853	54853	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2001
+GCA_020458395.1	Colletotrichum acutatum	42866	48359785	52.5	1922	51413	51413	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	1997
+GCA_020464265.1	Colletotrichum acutatum	42871	49331692	52	2677	52895	52895	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2001
+GCA_020464275.1	Colletotrichum acutatum	42870	48361109	52.5	2289	49385	49385	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2000
+GCA_020464295.1	Colletotrichum acutatum	42869	48502718	53	2156	46979	46979	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2000
+GCA_020465715.1	Colletotrichum acutatum	42868	49422277	52.5	2109	57243	57243	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2000
+GCA_020465735.1	Colletotrichum acutatum		51203636	51.5	2868	46261	46261	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2018
+GCA_020465745.1	Colletotrichum acutatum		50225064	51.5	3422	35498	35498	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2018
+GCA_020465775.1	Colletotrichum acutatum		50496501	51.5	284	628759	628759	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465795.1	Colletotrichum acutatum		50469302	51.5	474	447385	447385	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465815.1	Colletotrichum acutatum		51018208	51.5	396	493744	493744	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465835.1	Colletotrichum acutatum		50496057	51.5	194	571668	571668	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465855.1	Colletotrichum acutatum		51057129	51.5	451	475364	475364	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465875.1	Colletotrichum acutatum		51025733	51.5	464	613842	613842	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465895.1	Colletotrichum acutatum	43374	50870935	51.5	365	523865	523865	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2019
+GCA_020465915.1	Colletotrichum acutatum	42867	49045639	52.5	2015	54790	54790	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2000
+GCA_020465945.1	Colletotrichum acutatum	42875	49335525	52	2339	49989	49989	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2001
+GCA_021124905.1	Colletotrichum acutatum	83	49749514	53	1998	146146	146146	Contig	Illumina MiSeq	PRJNA779114	strawberry	USA: California	2015-07-15
+GCA_030867785.1	Colletotrichum acutatum	CBS 112980	49057477	52	389	299511	299511	Contig	PacBio	PRJNA334354	not applicable	missing	missing
+GCA_037954465.1	Colletotrichum acutatum	L51	51824279	51.5	484	526679	648050	Scaffold	Illumina NovaSeq	PRJNA1060634	Pyrus communis	Italy: Emilia-Romagna	2023-02
+GCA_040760105.1	Colletotrichum acutatum	COL14	51835763	51.5	29	3276623	3276623	Contig	Illumina NextSeq; Oxford Nanopore MinION	PRJNA1036424		Italy:Viterbo	2022
+GCA_049998925.1	Colletotrichum acutatum		50728502	52.5	2352	183304	185457	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Bunn	2009
+GCA_049999025.1	Colletotrichum acutatum		50963099	52	1727	181070	182409	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Bunn	2009
+GCA_049999045.1	Colletotrichum acutatum		58281367	53	7746	364959	550739	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Stanford	2009
+GCA_049999125.1	Colletotrichum acutatum		50963099	52	1727	181070	182409	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Stanford	2009
+GCA_057627645.1	Colletotrichum acutatum	IMI345574	50555966	51.5	120	718963	1215904	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	New Zealand: Auckland	1991
+GCA_058130455.1	Colletotrichum adenophorae	CGMCC 3.18952	48440355	51	421	244637	280821	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Lancang county	2016-08
+GCF_013390185.1	Colletotrichum aenigma	Cg56	59189926	52.5	79	5181253	5181253	Contig	PacBio Sequel	PRJNA476648	strawberry	Japan: Tochigi	1987
+GCA_013390185.1	Colletotrichum aenigma	Cg56	59189926	52.5	79	5181253	5181253	Contig	PacBio Sequel	PRJNA476648	strawberry	Japan: Tochigi	1987
+GCA_022496045.1	Colletotrichum aenigma	JS-0419	65098038	50.5	18	5534730	5534730	Contig	Illumina HiSeq (PE + MP); PacBio Sequel	PRJNA785002	Suaeda japonica	South Korea: Suncheon, Jeollanam-do	2011-09-15
+GCA_036785465.1	Colletotrichum agaves	ARM3	71384446	40.5	10921	73877	73877	Contig	DNBSEQ-G400	PRJNA1007928	Agave americana	Japan: Okinawa	2012-03
+GCA_027406305.1	Colletotrichum asianum	FJ11	66118652	49.5	18	5978754	5978754	Contig	PacBio Sequel	PRJNA872318		China:fujian province	2018
+GCA_009806415.1	Colletotrichum asianum	ICMP 18580	64731264	49.5	501	381785	389703	Scaffold	Illumina HiSeq	PRJNA504379		Thailand: Chiang Mai	2007-12-12
+GCA_027406345.1	Colletotrichum asianum	YN55	62693972	49.5	13	5572377	5572377	Contig	PacBio Sequel	PRJNA872318		China:yunnan province	2018
+GCA_045514765.1	Colletotrichum asianum	TYC-2	58189971	53	1155	168234	682807	Scaffold	Illumina MiSeq	PRJNA1007488	Mangifera indica	Taiwan: Pingtung	2008-08-15
+GCA_014706365.1	Colletotrichum australisinense (nom. inval.)	GX1655	55304262	51.5	28	5698484	5698484	Contig	Oxford Nanopore GridION	PRJNA597926	Hevea brasiliensis	China: Guangxi	2016-06
+GCA_058130435.1	Colletotrichum baiyuense	CGMCC 3.18941	50452817	53.5	953	186805	194084	Scaffold	Illumina NovaSeq	PRJNA1452218	Hippuris vulgaris	China: Sichuan Province, Baiyu county, Tibetan Autonomous Prefecture of Garz	2015-08
+GCA_030770045.1	Colletotrichum brevisporum	C1	62659034	49	18	7932807	7932807	Contig	Illumina NovaSeq; Oxford Nanopore PromethION	PRJNA978983		China: Guangzhou	2023-02-01
+GCA_018853505.1	Colletotrichum camelliae	LS-19	67471331	49	19	5851421	5851421	Contig	PacBio Sequel	PRJNA686827	Camellia sinensis	China:Zhejiang	not applicable
+GCA_011947485.2	Colletotrichum camelliae	CcLH18	57798682	49.5	706	162123	198072	Scaffold	Illumina HiSeq	PRJNA613862	Camellia oleifera	China: Huna	2017-02-12
+GCA_026740055.1	Colletotrichum camelliae	LT-3-1	67743009	49	21	5691745	5691745	Contig	PacBio RSII	PRJNA907149	tea	China:Hubei	2018-10
+GCA_056956895.1	Colletotrichum cangyuanense	CGMCC 3.18969	58375145	52.5	1721	112030	112631	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Cangyuan county	2016-08
+GCA_058130395.1	Colletotrichum casaense	CGMCC 3.18947	50297763	53.5	1548	132416	136006	Scaffold	Illumina NovaSeq	PRJNA1452218	Hippuris vulgaris	China: Sichuan province, Tibetan autonomous prefecture of Garz, Luhuo county, Casa lake	2015-08
+GCA_030867225.1	Colletotrichum caudatum	CBS 131602	44202764	55	1630	62710	94998	Scaffold	Illumina	PRJNA262368	not applicable	missing	missing
+GCA_060231475.1	Colletotrichum cereale		57980704	53	13	5437370	5437370	Complete Genome	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA1489556	Tall fescue	USA: North Carolina	2015
+GCA_030867335.1	Colletotrichum cereale	CBS 129662	52150039	52.5	2022	62077	76554	Scaffold	Illumina	PRJNA262440	not applicable	missing	missing
+GCA_034509575.1	Colletotrichum cereale	ASCC013	58779035	49.5	5108	34077	50482	Scaffold	Illumina HiSeq	PRJNA980566	oat	China: Tianzhen County, Shanxi Province	2019-08-05
+GCA_034509595.1	Colletotrichum cereale	ASCC016	59048100	49.5	4016	49111	74417	Scaffold	Illumina HiSeq	PRJNA980566	oat	China: Youyu County, Shanxi Province	2019-07-20
+GCA_034509685.1	Colletotrichum cereale	ASCC004	58523228	49.5	3824	51106	82919	Scaffold	Illumina HiSeq	PRJNA980566	oat	China: Pinglu County, Shanxi Province	2020-08-05
+GCA_034509705.1	Colletotrichum cereale	ASCC002	58585161	50	3946	51432	75294	Scaffold	Illumina HiSeq	PRJNA980566	oat	China: Pinglu County, Shanxi Province	2019-07-20
+GCA_060309125.1	Colletotrichum cereale	KS-F15-W16A	49742591	53.5	997	117203	117203	Contig	Illumina HiSeq	PRJNA262376	not applicable	missing	missing
+GCA_060309145.1	Colletotrichum cereale	NJ-DG2A25	51114320	52	1797	139987	139987	Contig	Illumina HiSeq	PRJNA262375	not applicable	missing	missing
+GCA_001937105.1	Colletotrichum chlorophyti	NTL11	52387045	50	3613	164384	644295	Scaffold	Illumina GAIIx	PRJNA350752	Solanum lycopersicum	Japan: Honshu	2013-08-09
+GCF_026319265.1	Colletotrichum chrysophilum	AFK26	55966644	53	652	288101	288101	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica (Honeycrisp)	USA	2018
+GCA_026319215.1	Colletotrichum chrysophilum	PMKnsl-1	56056391	53.5	1262	255107	255107	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica	USA	2018
+GCA_026319245.1	Colletotrichum chrysophilum	AFK154	57854444	53	1778	253687	268763	Scaffold	BGI DNBSEQ	PRJNA858866	Malus domestica (Idared)	USA	2017
+GCA_026319265.1	Colletotrichum chrysophilum	AFK26	55966644	53	652	288101	288101	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica (Honeycrisp)	USA	2018
+GCA_031006325.1	Colletotrichum chrysophilum	M932	55557938	53.5	1536	85481	86538	Scaffold	Illumina NovaSeq	PRJNA928458	Malus domestica	Italy: Emilia-Romagna	2022
+GCA_026119605.1	Colletotrichum cliviicola	YN31	52051982	55.5	9	6464197	6464197	Contig	PacBio Sequel	PRJNA872318		China:yunnan province	2018
+GCA_020466075.1	Colletotrichum coccodes		50243842	54	7394	28750	28750	Contig	IonTorrent	PRJNA755315	potato	USA: North Dakota	2004
+GCA_002249775.1	Colletotrichum coccodes	NJ-RT1	50121991	54	827	294833	342280	Scaffold	Illumina MiSeq	PRJNA285890		USA: New Jersey	2013
+GCA_002249805.1	Colletotrichum coccodes	RP180a	51499764	53.5	884	227998	280649	Scaffold	Illumina MiSeq	PRJNA285895		USA: Maryland	2013
+GCA_027406065.1	Colletotrichum cordylinicola	HN23	61624325	49.5	20	5282153	5282153	Contig	PacBio Sequel	PRJNA872318		China:hainan province	2018
+GCF_030867565.1	Colletotrichum costaricense	IMI 309622	51625248	51.5	73	2423109	2423109	Scaffold	Illumina MiSeq	PRJNA350895	Coffea sp.	Costa Rica: Turrialba	1978
+GCA_030867565.1	Colletotrichum costaricense	IMI 309622	51625248	51.5	73	2423109	2423109	Scaffold	Illumina MiSeq	PRJNA350895	Coffea sp.	Costa Rica: Turrialba	1978
+GCA_030869315.1	Colletotrichum cuscutae	IMI 304802	80453496	41.5	326	514068	514068	Scaffold	Illumina MiSeq	PRJNA350379	Cuscuta	Dominica	2012
+GCA_056956775.1	Colletotrichum demersi	CGMCC 3.18946	53649156	52.5	755	537969	561899	Scaffold	Illumina NovaSeq	PRJNA1452218	Ceratophyllum demersum	China: Guizhou province, Guiyang city, Hongfeng lake	2015-08
+GCF_034447905.1	Colletotrichum destructivum	CBS 520.97	51750812	54.5	12	5290227	5290227	Complete Genome	PacBio Sequel	PRJNA1029933	Medicago sativa	Saudi Arabia	1994-08-01
+GCA_009900065.1	Colletotrichum destructivum	YC1	52145981	54	58	3611167	3611167	Contig	Illumina	PRJNA598348	tobacco	China	2017-06-08
+GCA_034447905.1	Colletotrichum destructivum	CBS 520.97	51750812	54.5	12	5290227	5290227	Complete Genome	PacBio Sequel	PRJNA1029933	Medicago sativa	Saudi Arabia	1994-08-01
+GCA_058130415.1	Colletotrichum dianense	CGMCC 3.18943	52000069	53	677	554497	581006	Scaffold	Illumina NovaSeq	PRJNA1452218	Alternanthera philoxeroides	China: Yunnan province, Kunming city, Dian lake	2014-07
+GCA_058130375.1	Colletotrichum dimorphum	CGMCC 3.16083	61354543	51.5	1052	376348	388421	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Guizhouprovince, Pingtang county	2018-08
+GCA_016618095.1	Colletotrichum echinochloae	B-48	62246358	46.5	21	5346453	5346453	Contig	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA672254	Echinochloa crus-galli	China:Wuhan	2018-08
+GCA_016807845.1	Colletotrichum eleusines	NJC-16	53507824	51	15	5135075	5135075	Contig	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA671855	Eleusine indica	China:Wuhan	2018-08
+GCA_027406105.1	Colletotrichum endophyticum	YN32	61437041	51.5	21	5167365	5167365	Contig	PacBio Sequel	PRJNA872318		China:yunnan province	2018
+GCA_047496665.1	Colletotrichum endophyticum	GUCC 12108	57430559	52	19	4432404	4432404	Contig	Illumina NovaSeq; PacBio Sequel	PRJNA898668	not provided	China:Yangzhou	2019-10-17
+GCA_030867245.1	Colletotrichum eremochloae	CBS 129661	47210890	52.5	547	221499	352689	Scaffold	Illumina	PRJNA262442	not applicable	missing	missing
+GCA_037178605.1	Colletotrichum euphorbiae	CBS 134725	66282202	46.5	2250	98703	98703	Contig	DNBSEQ-G400	PRJNA1043725	Euphorbia sp.	South Africa: Cape Town	2012-09
+GCA_019425465.1	Colletotrichum falcatum	CF08	56082967	52.5	238	488304	488304	Contig	PacBio RSII	PRJNA509540	sugarcane	India	not collected
+GCA_001484525.1	Colletotrichum falcatum	Cf671	48186431	51.5	6400	16629	29329	Scaffold	Illumina HiSeq	PRJNA272959	Saccharum officinarum	India: TamilNadu	1996-06-30
+GCA_030867235.1	Colletotrichum falcatum	MAFF306170	49085377	53	1664	65930	90754	Scaffold	Illumina	PRJNA262221	not applicable	missing	missing
+GCA_023376865.1	Colletotrichum filicis	CBS 101611	62965231	46	369	322147	325017	Scaffold	Illumina MiSeq	PRJNA350378	fern	Costa Rica	missing
+GCA_055672545.1	Colletotrichum filicis	H8	51903854	52	4224	25283	26191	Scaffold	Illumina NovaSeq	PRJNA1193589	Rumohra adiantiformis	Costa Rica: Fraijanes, Alajuela	2000
+GCA_059631605.1	Colletotrichum filicis		49190417	52.5	3616	25567	25951	Scaffold	Illumina NovaSeq	PRJNA1193647	Rumohra adiantiformis	USA: Crescent City, Florida (FL)	2000
+GCA_059631625.1	Colletotrichum filicis		49986082	52.5	4072	24766	24966	Scaffold	Illumina NovaSeq	PRJNA1193658	Rumohra adiantiformis	Costa Rica: Cervantes, Cartago	2000
+GCA_059631635.1	Colletotrichum filicis		45982668	52.5	2121	28677	29450	Scaffold	Illumina NovaSeq	PRJNA1193654	Rumohra adiantiformis	USA: Seville, Florida	2000
+GCA_059631645.1	Colletotrichum filicis		49319566	52.5	3665	25793	26419	Scaffold	Illumina NovaSeq	PRJNA1193664	Rumohra adiantiformis	USA: Pierson Florida	2000
+GCA_059631685.1	Colletotrichum filicis		54247231	50	4557	24862	25192	Scaffold	Illumina NovaSeq	PRJNA1193671	Rumohra adiantiformis	Costa Rica: Tres Rios, Cartago	2000
+GCA_059631725.1	Colletotrichum filicis		50578075	52	4142	24468	24838	Scaffold	Illumina NovaSeq	PRJNA1193665	Rumohra adiantiformis	Costa Rica: San Pablo, Alajuela	2000
+GCF_027942845.1	Colletotrichum fioriniae	IMI 355084	49445812	52	47	2983733	2983733	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA786750	Quercus ilex	Switzerland: Lugano	1992
+GCF_026319165.1	Colletotrichum fioriniae	ACFK16	49301785	52	513	742368	742368	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica (Empire)	USA	2018
+GCA_002930425.1	Colletotrichum fioriniae	HC91	49792461	52	3679	37365	468533	Scaffold	Illumina HiSeq	PRJNA270309	Malus	USA: Bigerville, PA	2013-02
+GCA_002930455.1	Colletotrichum fioriniae	HC89	50150864	52	3327	38339	544764	Scaffold	Illumina HiSeq	PRJNA270309	Malus	USA: Bigerville, PA	2013-02
+GCA_014705115.1	Colletotrichum fioriniae	KY615	49988189	52	4843	29324	48042	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2016-06-03
+GCA_014705205.1	Colletotrichum fioriniae	KY648	50396376	51.5	5572	26625	84660	Scaffold	Illumina NextSeq	PRJNA625663	Vaccinium	USA:Kentucky	2016-06-25
+GCA_014705245.1	Colletotrichum fioriniae	KY646	50064071	51.5	3577	31077	53113	Scaffold	Illumina NextSeq	PRJNA625663	Vaccinium	USA:Kentucky	2016-06-25
+GCA_014705265.1	Colletotrichum fioriniae	KY640	49691380	52	3844	30825	49006	Scaffold	Illumina NextSeq	PRJNA625663	Vaccinium	USA:Kentucky	2016
+GCA_014705275.1	Colletotrichum fioriniae	KY119	49840158	51.5	3425	32429	49414	Scaffold	Illumina NextSeq	PRJNA625663	Vaccinium	USA:Kentucky	2013-09-05
+GCA_014705285.1	Colletotrichum fioriniae	KY116	50237383	51.5	5276	20168	53669	Scaffold	Illumina NextSeq	PRJNA625663	Vaccinium	USA:Kentucky	2013-09-05
+GCA_014705335.1	Colletotrichum fioriniae	KY323	49661969	52	3100	34003	84093	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-08-05
+GCA_014705365.1	Colletotrichum fioriniae	KY6	49740091	51.5	3458	30151	47219	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-07-25
+GCA_014705545.1	Colletotrichum fioriniae	HC296	49753773	52	3599	32519	50913	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_014705555.1	Colletotrichum fioriniae	HC25	49841025	51.5	3595	31866	64091	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_020464245.1	Colletotrichum fioriniae	42872 A	49237692	52.5	3165	33646	33646	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	1997
+GCA_020466255.1	Colletotrichum fioriniae	42949	51155235	52	4933	25968	25968	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	2016
+GCA_026319145.1	Colletotrichum fioriniae	ACFK5	49413510	52	144	688115	688115	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica (Empire)	USA	2018
+GCA_026319165.1	Colletotrichum fioriniae	ACFK16	49301785	52	513	742368	742368	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica (Empire)	USA	2018
+GCA_027942845.1	Colletotrichum fioriniae	IMI 355084	49445812	52	47	2983733	2983733	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA786750	Quercus ilex	Switzerland: Lugano	1992
+GCA_057627605.1	Colletotrichum fioriniae	IMI345583	50369504	51.5	290	321324	802304	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	New Zealand: Auckland	1989
+GCA_057627625.1	Colletotrichum fioriniae	IMI345576	50304596	51.5	355	284344	601073	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	New Zealand: Auckland	1991
+GCA_057627845.1	Colletotrichum fioriniae	IMI324993	49522538	52	184	509653	1250283	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA	1988
+GCA_057924085.1	Colletotrichum fioriniae	CREADC-F2259	50246289	51.5	234	485239	665193	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2016-08-09
+GCA_057924375.1	Colletotrichum fioriniae	CREADC-F2317	50066314	51.5	277	343049	501763	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2018-09-05
+GCA_057924395.1	Colletotrichum fioriniae	CREADC-F2471	50013592	51.5	252	354651	486422	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2021-03-25
+GCA_057924435.1	Colletotrichum fioriniae	CREADC-F2475	49994399	52	261	383660	557109	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2021-03-25
+GCA_057924495.1	Colletotrichum fioriniae	CREADC-F2307	50538504	52	277	367328	504902	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2018-08-11
+GCA_057924515.1	Colletotrichum fioriniae	CREADC-F2308	50050627	51.5	247	378841	542993	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2018-08-11
+GCF_000582985.1	Colletotrichum fioriniae PJ7	PJ7	49002765		3756	34930	137254	Scaffold	Illumina HiSeq	PRJNA233987	Fragaria x ananassa	New Zealand	1988
+GCA_000582985.1	Colletotrichum fioriniae PJ7	PJ7	49002765	52.5	3756	34930	137254	Scaffold	Illumina HiSeq	PRJNA233987	Fragaria x ananassa	New Zealand	1988
+GCF_009771025.1	Colletotrichum fructicola	CGMCC3.17371	58056435	53	447	905947	905947	Contig	Illumina MiSeq; Oxford Nanopore MinION	PRJNA532407	Fragaria x ananassa	China	2007
+GCA_002314275.2	Colletotrichum fructicola	1104-7	58690411	53	17	4984911	4985658	Scaffold	Oxford Nanopore PromethION	PRJNA588516	apple	China:Hebei	2014-08
+GCA_002887685.1	Colletotrichum fructicola	15060	55915688	53	1049	480505	480505	Contig	Illumina HiSeq	PRJNA418608	mango cv. Tainong	China: Guangxi	2013-05-20
+GCA_009771025.1	Colletotrichum fructicola	CGMCC3.17371	58056435	53	447	905947	905947	Contig	Illumina MiSeq; Oxford Nanopore MinION	PRJNA532407	Fragaria x ananassa	China	2007
+GCA_012932255.1	Colletotrichum fructicola	Cg38 S1	58952871	53	838	486905	1273051	Scaffold	Illumina HiSeq; PacBio	PRJNA476648	strawberry	Japan: Awa, Chiba	1994
+GCA_013201875.1	Colletotrichum fructicola	CfS4	57426314	53	1668	249725	306788	Scaffold	Illumina HiSeq	PRJNA476648	strawberry	Japan: Chiba	2001
+GCA_013201905.1	Colletotrichum fructicola	Cf415	56012246	53	892	281554	412455	Scaffold	Illumina HiSeq	PRJNA476648	strawberry	Japan: Saga	2007
+GCA_013201925.1	Colletotrichum fructicola	Cf245	56060367	53	1252	337174	378303	Scaffold	Illumina HiSeq	PRJNA476648	strawberry	Japan: Chiba	2005
+GCA_013390205.1	Colletotrichum fructicola	Cf413	56528462	53	14	4902990	4902990	Contig	PacBio Sequel	PRJNA476648	strawberry	Japan: Kochi	2007
+GCA_014705485.1	Colletotrichum fructicola	HC540	57126425	53	3618	53276	107635	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_017589655.1	Colletotrichum fructicola	1104-6	56580086	53.5	929	228772	257042	Scaffold	Illumina HiSeq	PRJNA705288	Malus domestica	China: Yangling	2014-07
+GCA_024000835.1	Colletotrichum fructicola	N425	56288449	53	491	312635	312635	Contig	Illumina	PRJNA765139	Camellia sinensis	China: Ningde	2019-04-25
+GCA_025558505.1	Colletotrichum fructicola	SX-6	56807082	53.5	510	285441	328553	Scaffold	Illumina HiSeq	PRJNA848944		China: Shaoxing	2017-08-16
+GCA_027406145.1	Colletotrichum fructicola	GZ14	57249276	53	14	4898915	4898915	Contig	PacBio Sequel	PRJNA872318		China:guizhou province	2018
+GCA_027406265.1	Colletotrichum fructicola	QZ-3	57493921	53	13	4896077	4896077	Contig	PacBio RSII	PRJNA872318		China:guangxi province	2018
+GCA_027406285.1	Colletotrichum fructicola	HN47	57535124	53	12	4922103	4922103	Contig	PacBio Sequel	PRJNA872318		China:hainan province	2018
+GCA_039271565.1	Colletotrichum fructicola	63	56410981	53	11	4894412	4894412	Complete Genome	PacBio HiFi Revio	PRJNA1092814	Hevea brasiliensis	China:Hainan	2013
+GCA_040869005.1	Colletotrichum fructicola	LJMX19	56693759	53	13	5078845	5078845	Chromosome	Oxford Nanopore PromethION	PRJNA588516	Capsicum annuum	China: Meixian, Shaanxi	2018
+GCA_046120875.1	Colletotrichum fructicola	CZ2101	55772811	53	624	279426	307414	Scaffold	Illumina	PRJNA1190153	taro	China:Fujian	2021-10
+GCA_048771815.1	Colletotrichum fructicola	PZ02	56106626	53.5	1240	257434	257434	Contig	Illumina	PRJNA1233208		China	2023-10
+GCA_051380545.1	Colletotrichum fructicola	F11	58115002	53	29	2743173	2743173	Contig	PacBio Sequel	PRJNA740246	water hyacinth	China: Fuzhou	2020-09-12
+GCA_057627665.1	Colletotrichum fructicola	IMI345051	55542658	53.5	599	253668	325379	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Canada: Ontario	1991
+GCA_057627675.1	Colletotrichum fructicola	IMI345052	55755726	53.5	765	214856	241056	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Florida	1991
+GCA_057924185.1	Colletotrichum fructicola	C177	55536319	53	566	316130	350529	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Rovigo, Adria	2024-07-22
+GCA_057924315.1	Colletotrichum fructicola	CREADC-F2480	55203807	53	562	305478	328312	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Padova, Cittadella	2021-03-29
+GCA_059927665.1	Colletotrichum fructicola		58501285	53	49	3023733	5224494	Chromosome	PacBio RSII	PRJNA1453065	Malus domestica	China: liaoning	2015
+GCF_000319635.2	Colletotrichum fructicola Nara gc5	Nara gc5	59542867	53	12	5461344	5461344	Contig	PacBio Sequel	PRJNA171218	strawberry		
+GCA_000319635.2	Colletotrichum fructicola Nara gc5	Nara gc5	59542867	53	12	5461344	5461344	Contig	PacBio Sequel	PRJNA171218	strawberry		
+GCA_047496645.1	Colletotrichum gardeniae	GUCC 12049	63335798	50	32	4131996	4131996	Contig	Illumina NovaSeq; PacBio Sequel	PRJNA898668	Gardenia jasminoides	China:Yunnan	2018-01-15
+GCA_058130335.1	Colletotrichum garzense	CGMCC 3.18948	49886759	53.5	1284	126150	127393	Scaffold	Illumina NovaSeq	PRJNA1452218	Hippuris vulgaris	China: Sichuan province, Tibetan autonomous prefecture of Garz, Litang county	2015-08
+GCA_024584535.1	Colletotrichum gigasporum	JS-0367	86997423	48	10	9214307	9214307	Complete Genome	PacBio Sequel; Illumina HiSeq PE	PRJNA742180	Morus alba	South Korea: Inje, Gangwon	2011-07-21
+GCA_027406085.1	Colletotrichum gigasporum	HN42	57891463	54.5	10	5477728	5477728	Contig	PacBio Sequel	PRJNA872318		China:hainan province	2018
+GCF_011800055.1	Colletotrichum gloeosporioides	Lc1	61904035	51	541	429093	709944	Scaffold	PacBio; Illumina HiSeq	PRJNA577812		China: NFU, Nanjing	2013-08-12
+GCA_002189585.1	Colletotrichum gloeosporioides		57603470	53	1781	183416	331788	Scaffold	Illumina	PRJNA377876	Apple	China: Fengxian	2011
+GCA_002901105.1	Colletotrichum gloeosporioides	TYU	53008665	49.5	63	1905770	1905770	Contig	PacBio	PRJNA395616	Taxus cuspidata	South Korea: Gyeongsan	2015-09-14
+GCA_003243855.1	Colletotrichum gloeosporioides	SMCG1#C	61916549	50.5	25	4696547	5209244	Scaffold	PacBio; Illumina HiSeq	PRJNA471237	Cunninghamia lanceolata	China: Nanjing	2017-05-20
+GCA_003568745.1	Colletotrichum gloeosporioides	ES026	58519738	52.5	1129	130450	2508969	Scaffold	Illumina HiSeq	PRJNA488958	Huperzia serrata	China:Wuhan	2005
+GCA_003666125.1	Colletotrichum gloeosporioides	Cg01	55772594	53	599	400620	1820057	Scaffold	Illumina HiSeq	PRJNA484086	Huperzia serrata	China: Fujian, Nanping	2012
+GCA_011428055.1	Colletotrichum gloeosporioides	COLG-95	53724932	52.5	3634	20870	20957	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011800055.1	Colletotrichum gloeosporioides	Lc1	61904035	51	541	429093	709944	Scaffold	PacBio; Illumina HiSeq	PRJNA577812		China: NFU, Nanjing	2013-08-12
+GCA_011947415.1	Colletotrichum gloeosporioides	CgLH19	55563689	52.5	267	442561	553822	Scaffold	Illumina HiSeq	PRJNA613862	Camellia oleifera	China: Huna	2017-02-12
+GCA_014705165.1	Colletotrichum gloeosporioides	KY332	58002434	52.5	3381	42575	77145	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2013
+GCA_019022565.1	Colletotrichum gloeosporioides	hn1205-1	57144918	52.5	736	275152	319924	Scaffold	Illumina	PRJNA690880	Hevea brasiliensis Muell.-Arg	China:Danzhou	2012-05
+GCA_021650765.1	Colletotrichum gloeosporioides	CgDa01	62777491	50	28	5448682	5448682	Contig	Illumina NovaSeq and Oxford Nanopore PromethION	PRJNA792738	Dioscorea alata	China: Nanjing	2019-08-26
+GCA_027406185.1	Colletotrichum gloeosporioides	GZ15	57836396	51.5	18	5204641	5204641	Contig	PacBio Sequel	PRJNA872318		China:guizhou province	2018
+GCA_029169055.1	Colletotrichum gloeosporioides	JS-0417	65303477	48	24	5584352	5584352	Contig	Illumina HiSeq (PE + MP); PacBio Sequel	PRJNA784997	Suaeda japonica	South Korea: Suncheon, Jeollanam-do	2011-09-15
+GCA_040955525.1	Colletotrichum gloeosporioides		57766488	53.5	2270	167916	177688	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Stanford	2010
+GCA_040955545.1	Colletotrichum gloeosporioides		56132952	53.5	2391	174318	182339	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Wake	2010
+GCA_040955925.1	Colletotrichum gloeosporioides		73275568	54	35516	121109	135875	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Franklin	2010
+GCA_046563635.1	Colletotrichum gloeosporioides	NWUHS001	56820171	52.5	27	3366555	3366555	Contig	Oxford Nanopore	PRJNA1028833	Huperzia serrata	China:Shannxi	2019-05
+GCA_049998905.1	Colletotrichum gloeosporioides		59191114	53	3461	181571	201911	Scaffold	Illumina NovaSeq	PRJNA1090952		USA:North Carolina, Stanford	2010
+GCA_056825315.1	Colletotrichum gloeosporioides		59916142	52.5	21	5028861	5028861	Contig	Oxford Nanopore	PRJNA1082901	apple	China	2020-08-06
+GCA_021432615.1	Colletotrichum gloeosporioides 23	23	58838139	52.5	774	177473	2304310	Scaffold	Illumina	PRJNA196038		missing	not collected
+GCA_000446055.1	Colletotrichum gloeosporioides Cg-14	Cg-14	53209944	53.5	4537	25337	25337	Contig	454	PRJNA176412	avocado cv. Fuente	Israel	
+GCF_030913485.1	Colletotrichum godetiae	CBS 193.32	51652851	52	194	737523	737523	Contig	PacBio	PRJNA333328	not applicable	missing	missing
+GCA_001663355.1	Colletotrichum godetiae	C184	35034269	52.5	7086	17039	48837	Scaffold	Illumina HiSeq	PRJNA315612	Olea europaea	Italy: Apulia	2012-11
+GCA_030913485.1	Colletotrichum godetiae	CBS 193.32	51652851	52	194	737523	737523	Contig	PacBio	PRJNA333328	not applicable	missing	missing
+GCA_057627405.1	Colletotrichum godetiae	IMI351589	49935395	52	390	245431	373584	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Ireland	1992
+GCA_057627445.1	Colletotrichum godetiae	IMI351262	50479061	51.5	351	275039	569701	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Belgium	1992
+GCA_057627465.1	Colletotrichum godetiae	IMI351255	48716395	52	721	114969	169998	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	United Kingdom	1992
+GCA_057627495.1	Colletotrichum godetiae	IMI351253	49000279	52	1444	56739	69819	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	United Kingdom	1992
+GCA_057924735.1	Colletotrichum godetiae	CREADC-F2271	50041321	51.5	512	272680	340578	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Rovigo, Costa di Rovigo	2017-07-26
+GCA_057924835.1	Colletotrichum godetiae	CREADC-F2270	50030909	51.5	524	276931	344710	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Rovigo, Costa di Rovigo	2017-07-26
+GCA_058130355.1	Colletotrichum gracile	CGMCC 3.16075	56408470	53	587	425791	471901	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Guizhou province, Nayong county	2018-08
+GCA_001951205.1	Colletotrichum graminicola	M5.001	59914086	45.5	8455	16615	16615	Contig	454	PRJNA354205	Zea mays	Brazil	1980
+GCA_026652225.1	Colletotrichum graminicola		53778362	48	6945	46093	80217	Scaffold	Illumina MiSeq	PRJNA815473	Zea mays	Argentina: Pergamino	2012
+GCA_026652245.1	Colletotrichum graminicola	CBS 252.59	44929710	52.5	5261	23346	23449	Scaffold	Illumina HiSeq	PRJNA815638	Zea mays	Netherlands: Wageningen	1959
+GCA_026652265.1	Colletotrichum graminicola		57829245	46.5	4474	52303	102284	Scaffold	Illumina MiSeq	PRJNA815636	Zea mays	Canada: Leamington	2012
+GCA_026652275.1	Colletotrichum graminicola		59226624	45.5	1524	101245	113312	Scaffold	Illumina MiSeq	PRJNA815632	Zea mays	Canada: Chatman	2012
+GCA_026652285.1	Colletotrichum graminicola		58978423	45.5	7648	19860	20130	Scaffold	Illumina HiSeq	PRJNA815644	Zea mays	Croatia: Rugvica	2011
+GCA_026652305.1	Colletotrichum graminicola	CBS 113173	51539737	49	3760	87976	99157	Scaffold	Illumina HiSeq	PRJNA815639	Zea mays	Zimbabwe	1960
+GCA_026652315.1	Colletotrichum graminicola		59309189	45.5	1374	102931	102931	Scaffold	Illumina MiSeq	PRJNA815831	Zea mays	Croatia: Rugvica	2010
+GCA_026652355.1	Colletotrichum graminicola		43145614	54	1562	86273	93605	Scaffold	Illumina HiSeq	PRJNA815832	Zea mays	Germany	2013
+GCA_026652695.1	Colletotrichum graminicola		50305269	49.5	4339	80848	86609	Scaffold	Illumina HiSeq	PRJNA815857	Zea mays	USA: Michigan	2005
+GCA_026652705.1	Colletotrichum graminicola		60257832	45.5	1173	123830	326891	Scaffold	Illumina MiSeq	PRJNA815858	Zea mays	Portugal: Alvalade	2014
+GCA_026652995.1	Colletotrichum graminicola		60620047	45.5	1358	116107	254850	Scaffold	Illumina MiSeq	PRJNA815862	Zea mays	Switzerland: Zurich	2012
+GCA_026653275.1	Colletotrichum graminicola		51324951	49	12728	17486	17646	Scaffold	Illumina HiSeq	PRJNA815829	Zea mays	Croatia: Rugvica	2010
+GCA_026653375.1	Colletotrichum graminicola		49480776	50	11689	16923	17026	Scaffold	Illumina HiSeq	PRJNA815838	Zea mays	France: Garlin	2012
+GCA_026653475.1	Colletotrichum graminicola		52363910	48.5	11209	17547	17648	Scaffold	Illumina HiSeq	PRJNA815839	Zea mays	France: Garlin	2012
+GCA_026653595.1	Colletotrichum graminicola		43764066	53.5	5186	21336	21353	Scaffold	Illumina HiSeq	PRJNA815847	Zea mays	France: Garlin	2012
+GCA_026653705.1	Colletotrichum graminicola		49263723	49.5	3569	81286	86576	Scaffold	Illumina HiSeq	PRJNA815850	Zea mays	Nigeria	1990
+GCA_026654635.1	Colletotrichum graminicola		49923410	54	2887	59235	67010	Scaffold	Illumina HiSeq	PRJNA815856	Zea mays	USA: Alabama	2005
+GCA_026656465.1	Colletotrichum graminicola		48885120	50.5	9327	21033	21033	Scaffold	Illumina HiSeq	PRJNA815863	Zea mays	Switzerland: Zurich	2012
+GCA_029226625.1	Colletotrichum graminicola		57426633	46	18	5007504	6444216	Chromosome	PacBio RSII; Illumina NovaSeq	PRJNA900520	Zea mays	USA: Missouri	1978
+GCA_030463195.1	Colletotrichum graminicola	T1-3-3	60699984	45.5	103	1079996	1521315	Scaffold	Illumina; PacBio	PRJNA875224	corn	China	2018-09-01
+GCF_000149035.1	Colletotrichum graminicola M1.001	M1.001	51604658	49	1151	228959	579194	Scaffold	454; Sanger	PRJNA37879			
+GCA_000149035.1	Colletotrichum graminicola M1.001	M1.001	51604658	49	1151	228959	579194	Scaffold	454; Sanger	PRJNA37879			
+GCA_000313795.2	Colletotrichum higginsianum	IMI 349063	49084868	55	10282	6147	6147	Scaffold		PRJNA47061			
+GCA_004920355.1	Colletotrichum higginsianum	MAFF305635-RFP	49786461	54.5	28	5064939	5064939	Contig	PacBio	PRJNA352900	Brassica rapa var. perviridis	missing	missing
+GCA_023705605.1	Colletotrichum higginsianum	MAFF 245053	49069799	54.5	27	4389193	4389193	Contig	PacBio RS2	PRJDB11870	Scopolia japonica	Japan:Hokkaido	2014-07
+GCF_001672515.1	Colletotrichum higginsianum IMI 349063	IMI 349063	50716103	54.5	25	5201688	5201688	Chromosome	PacBio P5-C3 chemistry	PRJNA47061	Brassica rapa subsp. chinensis	Trinidad and Tobago: Trinidad	1991-04-24
+GCA_001672515.1	Colletotrichum higginsianum IMI 349063	IMI 349063	50716103	54.5	25	5201688	5201688	Chromosome	PacBio P5-C3 chemistry	PRJNA47061	Brassica rapa subsp. chinensis	Trinidad and Tobago: Trinidad	1991-04-24
+GCA_027406005.1	Colletotrichum horii	PLG3	68458539	46.5	17	8175915	8175915	Contig	PacBio Sequel	PRJNA872318		China:guangxi province	2019
+GCA_019693695.1	Colletotrichum horii	FJ-1	74324508	47	42	3135412	3135412	Contig	Oxford Nanopore	PRJNA748574	Persimmon	China:Yangling	2020-06-30
+GCA_049996515.1	Colletotrichum horii	SD010	75154806	46.5	53	2568590	2568590	Contig	PacBio RSII; Illumina HiSeq	PRJNA725041	persimmon	China:Shandong	2017-10-01
+GCA_001625285.1	Colletotrichum incanum	MAFF 238704	53597417	52	2908	177164	177164	Scaffold	Illumina HiSeq	PRJNA286717	Raphanus sativus L. Daikon Group	Japan: Miyazaki Prefecture	1998-10
+GCA_001855235.1	Colletotrichum incanum	MAFF238712	53254579	52	6302	39757	292512	Scaffold	Illumina GAIIx	PRJNA267650	Raphanus sativus var. longipinnatus	Japan: Kagoshima	1995-09
+GCA_047496555.1	Colletotrichum jiangxiense	GUCC 12055	57568999	52.5	14	5020161	5020161	Contig	Illumina NovaSeq; PacBio Sequel	PRJNA898668	Fatsia japonica	China:Guizhou	2017-09-06
+GCF_051148585.1	Colletotrichum jinshuiense		52104089	53	15	5052393	5052393	Complete Genome	PacBio	PRJNA1080248	Coptis chinensis Franch	China: Enshi	2019-06
+GCA_051148585.1	Colletotrichum jinshuiense		52104089	53	15	5052393	5052393	Complete Genome	PacBio	PRJNA1080248	Coptis chinensis Franch	China: Enshi	2019-06
+GCA_032988895.1	Colletotrichum kahawae	CIFC_Que2	59071264	52.5	1173	133039	199181	Scaffold	Illumina MiSeq	PRJNA564749	Coffea arabica	Kenya	1988
+GCF_011947395.1	Colletotrichum karsti	CkLH20	51850041	52.5	203	460919	857663	Scaffold	Illumina HiSeq	PRJNA613862	Camellia oleifera	China: Huna	2017-02-12
+GCA_011947395.2	Colletotrichum karsti	CkLH20	51850041	52.5	203	460919	857663	Scaffold	Illumina HiSeq	PRJNA613862	Camellia oleifera	China: Huna	2017-02-12
+GCA_038051215.1	Colletotrichum karsti		53225131	52.5	808	424276	582313	Scaffold	Illumina NovaSeq	PRJNA1086525	rose	South Africa: Potchefstroom	2021-10
+GCA_036785755.1	Colletotrichum ledebouriae	CBS 141284	145951786	36.5	12360	34954	34954	Contig	DNBSEQ-G400	PRJNA1008866	Ledebouria floribunda	South Africa: Eastern Cape Province, Haga Haga	2014-12
+GCA_003386485.1	Colletotrichum lentis		56100083	50	2980	50944	4891426	Scaffold	Illumina	PRJNA407672	Lentil	Canada: Drinkwater, Saskatchewan	2001
+GCA_027406045.1	Colletotrichum liaoningense	YN33	51853301	52	13	4641664	4641664	Contig	PacBio Sequel	PRJNA872318		China:yunnan province	2018
+GCA_030413865.1	Colletotrichum limetticola		50483870	53	1808	67018	68638	Scaffold	Illumina NovaSeq	PRJNA952538	Citrus x aurantiifolia	USA: Florida, Lake Alfred area	2000-03
+GCA_054857455.1	Colletotrichum limetticola	05-262	50236333	53	1947	60722	62409	Scaffold	Illumina NovaSeq	PRJNA1394990	Citrus x aurantiifolia	USA: Florida	2000
+GCA_001693025.3	Colletotrichum lindemuthianum	89 A2 2-3	100390507	37.5	120	2180353	2180353	Scaffold	PacBio Sequel; Illumina HiSeq	PRJNA325493		Brazil	2010
+GCA_001693015.2	Colletotrichum lindemuthianum	83.501	97411422	37.5	2282	100419	111275	Scaffold	Illumina HiSeq	PRJNA325493		Brazil	2010
+GCA_041941805.1	Colletotrichum lindemuthianum	Cl-P0/RAZA-0	90129135	39	26327	29293	31463	Scaffold	Illumina NovaSeq	PRJNA1147206	Phaseolus vulgaris	Mexico	1996
+GCA_041941825.1	Colletotrichum lindemuthianum	Cl-P1088/RAZA-1088R	89293694	39	29634	26098	28426	Scaffold	Illumina NovaSeq	PRJNA1147206	Phaseolus vulgaris	Mexico	1992
+GCA_041941845.1	Colletotrichum lindemuthianum	Cl-P1472/RAZA-1472	90088164	39	24602	30173	33052	Scaffold	Illumina NovaSeq	PRJNA1147206	Phaseolus vulgaris	Mexico	1996
+GCA_041941875.1	Colletotrichum lindemuthianum	Cl-P2395/RAZA-2395	92401124	38.5	28823	27987	30248	Scaffold	Illumina NovaSeq	PRJNA1147206	Phaseolus vulgaris	Mexico	2017
+GCA_059492005.1	Colletotrichum lini	655-1	54657639	54	13	5849364	5849364	Complete Genome	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_034638215.1	Colletotrichum lini	771	54970441	54	30	5513638	5513638	Contig	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_034638235.1	Colletotrichum lini	390-1	55218207	54	31	5167518	5167518	Contig	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_034638275.1	Colletotrichum lini	757	54018360	54	26	5802763	5802763	Contig	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_043790985.1	Colletotrichum lini	394-2	53648951	54	12	5803347	5803347	Complete Genome	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum	not applicable	not collected
+GCA_059492035.1	Colletotrichum lini	391-4	54489426	54	13	5759874	5759874	Complete Genome	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_059492065.1	Colletotrichum lini	390-3	54426042	54	14	5761607	5761607	Chromosome	Oxford Nanopore PromethION; Illumina NovaSeq	PRJNA929545	Linum usitatissimum L.	not applicable	not collected
+GCA_022179045.1	Colletotrichum liriopes	MAFF 242679	52972150	53	82	1221453	1221453	Contig	PacBio RS2	PRJDB11870	Rohdea japonica	Japan:Gunma	2010-10
+GCA_015832465.1	Colletotrichum liriopes	A2	53087791	52.5	407	288433	288433	Contig	Illumina	PRJNA669110	Ophiopogon japonicus	China:Zhejiang	2019-07-21
+GCA_029034635.1	Colletotrichum liriopes	CBS 119444	53305150	53	1580	264149	266796	Scaffold	Illumina MiSeq	PRJNA868772	Liriope	Mexico	missing
+GCA_029034655.1	Colletotrichum liriopes	PC 22-5	52784357	53	1649	298330	317043	Scaffold	Illumina MiSeq	PRJNA868772	Liriope	USA: Maryland	missing
+GCA_029035315.1	Colletotrichum liriopes	PC 22-1	88115172	51	1304	431470	544794	Scaffold	Illumina MiSeq	PRJNA868772	Liriope	Colombia	missing
+GCF_023278565.1	Colletotrichum lupini	IMI 504893	63407421	46.5	11	7871922	7871922	Complete Genome	PacBio	PRJNA360503	Lupinus albus	France: Pays de la Loire, Saint Pierre du Chemin	2014-06-22
+GCA_023278565.1	Colletotrichum lupini	IMI 504893	63407421	46.5	11	7871922	7871922	Complete Genome	PacBio	PRJNA360503	Lupinus albus	France: Pays de la Loire, Saint Pierre du Chemin	2014-06-22
+GCA_030913515.1	Colletotrichum lupini	CBS 109225	58756634	47.5	116	918987	918987	Contig	PacBio	PRJNA333340	not applicable	missing	missing
+GCA_045682545.1	Colletotrichum lupini	IMI 504884	59367337	47.5	681	173061	244027	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	Canada	missing
+GCA_045682565.1	Colletotrichum lupini	JA23	57227283	48.5	2026	82774	99057	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	Ecuador: Cotopaxi	2015
+GCA_045682585.1	Colletotrichum lupini	Lup18	58344032	48	1311	115006	145027	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	Ecuador: Pujili	2007
+GCA_045682595.1	Colletotrichum lupini	JA20	54487988	50	1824	75755	88678	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	Peru: Carhuaz	2019
+GCA_045682605.1	Colletotrichum lupini	JA21	59092628	47.5	1604	91318	92736	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	Peru: Carhuaz	2019
+GCA_045682645.1	Colletotrichum lupini	Lup1	59432287	47.5	948	159826	216156	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	Ecuador: Juan Montalvo	2007
+GCA_045682665.1	Colletotrichum lupini	A-24	56967146	49	2451	66876	74941	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	Chile: Temuco	2015
+GCA_045682685.1	Colletotrichum lupini	A-02	61382829	47.5	1288	109829	130088	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	Chile: Cajon	2009
+GCA_045682715.1	Colletotrichum lupini	JA13	58146901	48.5	2825	64485	74512	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus mutabilis	USA: Florida	2013
+GCA_045682785.1	Colletotrichum lupini	CMW 9933	56954558	49	2424	64643	73611	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	South Africa: Malmsebury	1999
+GCA_045682845.1	Colletotrichum lupini	CMW 9930	62394362	47	1328	117745	141668	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	South Africa: Bethelem	1994
+GCA_045682895.1	Colletotrichum lupini	CMW 9931	62689264	47	1120	139024	187901	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	South Africa: Stellenbosch	1995
+GCA_045682915.1	Colletotrichum lupini	JA01	56105501	49.5	2312	62724	75009	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	Switzerland: Mellikon	2018
+GCA_045682935.1	Colletotrichum lupini	IMI 375715	62482225	47	1198	123754	147906	Scaffold	Illumina NovaSeqX Plus	PRJNA1099210	Lupinus albus	Australia: West Australia	1997
+GCA_054857575.1	Colletotrichum lupini	BBA70399	60829286	47.5	4128	62598	64178	Scaffold	Illumina NovaSeq	PRJNA1395303	Lupinus albus	Austria	1995
+GCA_054857585.1	Colletotrichum lupini	CMG12	63006435	47	2971	76795	80943	Scaffold	Illumina NovaSeq	PRJNA1395141	Cinnamonium zeylanicum	Portugal	2000
+GCA_054857605.1	Colletotrichum lupini	RB147	61816652	47	3412	64508	67848	Scaffold	Illumina NovaSeq	PRJNA1395329	Lupinus sp.	United Kingdom	1996
+GCA_054857695.1	Colletotrichum lupini	RB072	62950144	47	745	216398	225824	Scaffold	Illumina NovaSeq	PRJNA1395338	Lupinus albus	Germany	2001
+GCA_054857745.1	Colletotrichum lupini	UBOCC-A-118097	62860350	47	1285	120869	126614	Scaffold	Illumina NovaSeq	PRJNA1395505	Lupinus albus	France	2016
+GCA_054858265.1	Colletotrichum lupini	RB119	62763090	47	1457	122595	130074	Scaffold	Illumina NovaSeq	PRJNA1395364	Lupinus albus	Germany	1995
+GCA_054858345.1	Colletotrichum lupini	RB124	62616896	47	2043	100424	108625	Scaffold	Illumina NovaSeq	PRJNA1395365	Lupinus albus	Chile	2000
+GCA_054858365.1	Colletotrichum lupini	RB235	59566513	47.5	485	269593	288377	Scaffold	Illumina NovaSeq	PRJNA1395344	Lupinus albus	France	1996
+GCA_054858375.1	Colletotrichum lupini	RB020	61527007	47	3049	78654	81647	Scaffold	Illumina NovaSeq	PRJNA1395362	Lupinus albus	Portugal	1999
+GCA_054858455.1	Colletotrichum lupini	RB120	58116794	48.5	3549	58927	60087	Scaffold	Illumina NovaSeq	PRJNA1395387	Lupinus polyphyllus	Australia	1996
+GCA_054858485.1	Colletotrichum lupini	RB116	58986978	48	3712	57078	58411	Scaffold	Illumina NovaSeq	PRJNA1395371	Lupinus polyphyllus	United Kingdom	1998
+GCA_054858555.1	Colletotrichum lupini	RB122	62323050	47	1426	121901	134783	Scaffold	Illumina NovaSeq	PRJNA1395368	Lupinus luteus	Poland	1997
+GCA_054858635.1	Colletotrichum lupini	UBOCC-A-118146	62809412	47	1306	111434	130687	Scaffold	Illumina NovaSeq	PRJNA1395389	Lupinus albus	France	2014
+GCA_054858645.1	Colletotrichum lupini	UBOCC-A-118147	62806897	47	1184	128837	130563	Scaffold	Illumina NovaSeq	PRJNA1395507	Lupinus albus	France	2015
+GCA_054858695.1	Colletotrichum lupini	UBOCC-A-118136	62867010	47	1309	124243	133582	Scaffold	Illumina NovaSeq	PRJNA1395511	Lupinus albus	France	2014
+GCA_054858815.1	Colletotrichum lupini	UBOCC-A-117294	63102343	47	1838	105073	115336	Scaffold	Illumina NovaSeq	PRJNA1395510	Lupinus albus	France	2017
+GCA_022457145.1	Colletotrichum magnum	WT	57112935	50.5	684	155486	159803	Scaffold	Illumina MiSeq	PRJNA777582	watermelon	USA	1989
+GCA_030868995.1	Colletotrichum melonis		50135825	52	110	2830390	2830390	Scaffold	Illumina MiSeq	PRJNA348398	Malus domestica	Brazil: Rio Grande do Brazil	2014
+GCA_058130315.1	Colletotrichum menglaense	CGMCC 3.18958	59140509	52	207	907180	989000	Scaffold	Illumina NovaSeq	PRJNA1452218		China: Xishuangbanna dai autonomous prefecture, Tropical forest of xishuangbanna tropical botanical garden chinese academy of sciences	2016-07
+GCA_027406025.1	Colletotrichum musae	GZ23	60479243	49.5	14	6123291	6123291	Contig	PacBio Sequel	PRJNA872318		China:guizhou province	2018
+GCA_002814275.1	Colletotrichum musae	GM20	49118800	53.5	12435	7105	7105	Contig	Illumina HiSeq	PRJNA407219	Musa	Brazil: Pernambuco	2016-01-24
+GCA_014235935.1	Colletotrichum musicola	LFN0074	52725698	55	2791	41073	46381	Scaffold	Illumina MiSeq	PRJNA577394	Glycine max	Brazil: Lucas do Rio Verde, Mato Grosso	2017-03-01
+GCA_056956795.1	Colletotrichum nanhuaense	CGMCC 3.18962	60094826	51.5	389	688666	785038	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Nanhua county	2017-08
+GCF_030913465.1	Colletotrichum navitas	CBS 125086	52434554	48.5	702	318299	318299	Contig	PacBio	PRJNA262371	not applicable	missing	missing
+GCA_030913465.1	Colletotrichum navitas	CBS 125086	52434554	48.5	702	318299	318299	Contig	PacBio	PRJNA262371	not applicable	missing	missing
+GCA_036785495.1	Colletotrichum neosansevieriae	CBS 139918	78944493	40.5	1347	179132	179132	Contig	DNBSEQ-G400	PRJNA1009234	Dracaena trifasciata	South Africa: Gauteng	2014-09
+GCA_059628155.1	Colletotrichum nigrum	C21KSPeF19	51345418	53.5	1460	536066	536066	Contig	Illumina	PRJNA1479150	not collected	Russia: Krasnodar Krai	2021
+GCA_026319125.1	Colletotrichum noveboracense	PMBrms-1	59086795	52.5	1494	177618	177618	Contig	BGI DNBSEQ	PRJNA858866	Malus domestica	USA	2018
+GCA_026319155.1	Colletotrichum noveboracense	Coll940	58178553	52.5	1054	148120	168995	Scaffold	BGI DNBSEQ	PRJNA858866	Juglans nigra	USA	2013
+GCA_946151405.1	Colletotrichum noveboracense		58097859	52	4510	27185	27185	Contig	Ion Torrent S5	PRJEB33601	Malus domestica	USA	2017-07
+GCA_026319135.1	Colletotrichum nupharicola	CBS470	58756237	52.5	1734	137573	137573	Contig	BGI DNBSEQ	PRJNA858866	Nuphar lutea	USA	2013
+GCA_026319225.1	Colletotrichum nupharicola	Coll922	72741875	50	14073	45676	45676	Contig	BGI DNBSEQ	PRJNA858866	Nuphar lutea	USA	2013
+GCA_057627415.1	Colletotrichum nymphaeae	IMI351587	50317320	52	108	1117072	6164866	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA1376502	Strawberry	USA	1992
+GCA_014705085.1	Colletotrichum nymphaeae	KY613	50577973	52	2610	39463	138789	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2016-06-03
+GCA_014705095.1	Colletotrichum nymphaeae	KY567	51509711	52.5	4860	39466	127617	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2015
+GCA_014705125.1	Colletotrichum nymphaeae	KY745	50509097	52	3247	32274	84913	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2017-06-24
+GCA_014705155.1	Colletotrichum nymphaeae	KY563	50391861	52.5	3599	44307	131269	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2015
+GCA_014705455.1	Colletotrichum nymphaeae	HC646	51255053	52.5	4288	42596	67103	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_029169025.1	Colletotrichum nymphaeae	JS-0361	50069883	52.5	15	3876161	3876161	Contig	Illumina HiSeq (PE + MP); PacBio Sequel	PRJNA784994	Morus alba	South Korea: Inje, Gangwon-do	2011-07-15
+GCA_057627285.1	Colletotrichum nymphaeae	IMI391664	50665155	52	425	422263	671044	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	State of Palestine	2000
+GCA_057627295.1	Colletotrichum nymphaeae	IMI367468	50362875	52	1807	50179	60191	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA	1995
+GCA_057627345.1	Colletotrichum nymphaeae	IMI364856	50723006	52	433	468710	723434	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Spain	1994
+GCA_057627355.1	Colletotrichum nymphaeae	IMI360928	50666360	52	453	390375	575672	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Switzerland	1993
+GCA_057627475.1	Colletotrichum nymphaeae	IMI351254	49987716	52	52	1489622	3871503	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA1376502	Strawberry	Costa Rica	1992
+GCA_057627525.1	Colletotrichum nymphaeae	IMI351247	50210584	52	399	218735	3784845	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA1376502	Strawberry	United Kingdom	1992
+GCA_057627565.1	Colletotrichum nymphaeae	IMI348177	50631024	52	449	406419	569070	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Mississippi	1991
+GCA_057627725.1	Colletotrichum nymphaeae	IMI345032	50196644	52	24	3502845	6143361	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA1376502	Strawberry	Italy	1991
+GCA_057627745.1	Colletotrichum nymphaeae	IMI345031	50692781	52	410	455386	696845	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Italy	1991
+GCA_057627765.1	Colletotrichum nymphaeae	IMI345029	50718150	52	444	429889	571502	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Costa Rica	1991
+GCA_057627785.1	Colletotrichum nymphaeae	IMI345028	50702000	52	462	339703	493168	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Colombia	1991
+GCA_057627805.1	Colletotrichum nymphaeae	IMI324995	50686499	52	420	489799	619908	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Mississippi	1988
+GCA_057627815.1	Colletotrichum nymphaeae	IMI324994	50705192	52	468	407400	523921	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Mississippi	1988
+GCA_057627865.1	Colletotrichum nymphaeae	IMI324992	50692114	52	491	336237	462734	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA	1988
+GCA_057627905.1	Colletotrichum nymphaeae	IMI311743	50714662	52	484	334838	549199	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Ohio	1986
+GCA_057627925.1	Colletotrichum nymphaeae	IMI301119	50585732	52	112	1291412	4169906	Scaffold	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA1376502	Strawberry	Kenya	1986
+GCA_057924535.1	Colletotrichum nymphaeae	CREADC-F2297	49788693	52	65	1565670	2464281	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Padova, Cittadella	2018-06-24
+GCA_057924595.1	Colletotrichum nymphaeae	CREADC-F2298	49791415	52	88	1153637	1757122	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2018-07-18
+GCA_057924635.1	Colletotrichum nymphaeae	CREADC-F2476	50061313	52.5	83	1146043	2383216	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2021-03-25
+GCA_057924655.1	Colletotrichum nymphaeae	CREADC-F2478	50074693	52.5	84	1211165	1810557	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Rovigo, Costa di Rovigo	2021-03-25
+GCA_057924715.1	Colletotrichum nymphaeae	CREADC-F2372	50998582	52	472	1034392	1540796	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, San Dona di Piave	2019-07-14
+GCA_057924775.1	Colletotrichum nymphaeae	CREADC-F2296	50074550	52.5	103	893765	1685093	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Padova, Cittadella	2018-08-05
+GCA_001563115.1	Colletotrichum nymphaeae SA-01	SA-01	49956273	53	2247	75338	91051	Scaffold	Illumina	PRJNA237763	Fragaria x ananassa	Denmark: Island of Falster	2000-06
+GCA_056956705.1	Colletotrichum oblongisporum	CGMCC 3.16074	57259983	52.5	431	349760	368585	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Kunming city, Xishan park	2017-09
+GCA_000350065.2	Colletotrichum orbiculare MAFF 240422	104-T	89748316	37.5	6664	50717	2078754	Scaffold	PacBio RSII; Illumina GAIIx; 454	PRJNA171217	Cucumis sativus	Japan: Kyoto	1951
+GCF_001831195.1	Colletotrichum orchidophilum	IMI 309357	48556462	51	328	284473	284473	Scaffold	Illumina HiSeq	PRJNA342923	Phalaenopsis sp.	United Kingdom	1986
+GCA_001831195.1	Colletotrichum orchidophilum	IMI 309357	48556462	51	328	284473	284473	Scaffold	Illumina HiSeq	PRJNA342923	Phalaenopsis sp.	United Kingdom	1986
+GCF_030867605.1	Colletotrichum paranaense	IMI 384185	49177916	52	36	3374443	3374443	Contig	Illumina MiSeq	PRJNA350896	Caryocar brasiliense	Brazil	2000
+GCA_030867605.1	Colletotrichum paranaense	IMI 384185	49177916	52	36	3374443	3374443	Contig	Illumina MiSeq	PRJNA350896	Caryocar brasiliense	Brazil	2000
+GCA_058130295.1	Colletotrichum parvisporum	CGMCC 3.16078	58866500	51.5	435	387412	457306	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Guangxi province, Debao county	2018-08
+GCA_058130275.1	Colletotrichum philoxeroidis	CGMCC 3.18945	51892147	52.5	229	482802	499500	Scaffold	Illumina NovaSeq	PRJNA1452218	Alternanthera philoxeroides	China: Yunnan province, Chengjiang city, Fuxian lake	2014-07
+GCF_030913505.1	Colletotrichum phormii	CBS 102054	51666170	52.5	71	1798794	1798794	Contig	PacBio	PRJNA333354	not applicable	missing	missing
+GCA_030913505.1	Colletotrichum phormii	CBS 102054	51666170	52.5	71	1798794	1798794	Contig	PacBio	PRJNA333354	not applicable	missing	missing
+GCA_014235945.1	Colletotrichum plurivorum	LFN00145	49703650	56	1169	112734	130438	Scaffold	Illumina MiSeq	PRJNA577396	Glycine max	Brazil: Rio Verde, Goias state	2017-05-01
+GCA_001563125.1	Colletotrichum salicis	CBS 607.94	48373413	53	5121	25648	46166	Scaffold	Illumina	PRJNA238477	Salix sp.	Netherlands	1994-09-11
+GCA_026260285.1	Colletotrichum sansevieriae		98568926	42	3311	63895	73168	Scaffold	Illumina NovaSeq	PRJNA877595	Dracaena trifasciata	USA: Columbus, OH	2021-09-16
+GCA_002749775.1	Colletotrichum sansevieriae	Sa-1-2	51201343	50.5	8646	15119	15119	Contig	IonTorrent	PRJNA391063	Dracaena trifasciata	Japan	1996
+GCF_011075155.1	Colletotrichum scovillei	TJNH1	52001227	52	15	4871440	4871440	Contig	Oxford Nanopore PromethION	PRJNA605574	Capsicum annuum	China: Tianjin City	2017-07-14
+GCA_001593745.2	Colletotrichum scovillei	KC05	52136794	51.5	34	4416304	4416304	Scaffold	Illumina MiSeq; PacBio RSII	PRJNA314171	pepper	South Korea: Seoul	2015
+GCA_011075155.1	Colletotrichum scovillei	TJNH1	52001227	52	15	4871440	4871440	Contig	Oxford Nanopore PromethION	PRJNA605574	Capsicum annuum	China: Tianjin City	2017-07-14
+GCA_018906675.1	Colletotrichum scovillei	Coll-365	49921975	52	61	3528503	3528503	Scaffold	Illumina GAII	PRJNA692809	chili pepper	Taiwan: Puli, Nantou	2001-07-17
+GCA_018906765.1	Colletotrichum scovillei	Coll-153	50113654	52	62	3536762	3536762	Scaffold	Illumina GAII	PRJNA692809	chili pepper	Taiwan: Shanhua, Tainan	1992-07-28
+GCA_018907675.1	Colletotrichum scovillei	Coll-524	51490565	52	378	318605	3597184	Scaffold	Illumina HiSeq	PRJNA692809	chili pepper	Taiwan: Shanhua, Tainan	2005-07-14
+GCA_026540245.1	Colletotrichum scovillei	YN51	52197969	52	17	4391179	4391179	Scaffold	PacBio Sequel	PRJNA872318	Mangifera indica	China:Yunnan Province	2018
+GCA_054857355.1	Colletotrichum scovillei	IMI504891	50146125	52	1450	66363	67229	Scaffold	Illumina HiSeq	PRJNA1394971	Capsicum annuum	Taiwan	2000
+GCA_057627385.1	Colletotrichum scovillei	IMI360086	52724550	50.5	628	190759	257844	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Japan	1993
+GCA_006783085.1	Colletotrichum shisoi	PG-2018a	69667657	46.5	27161	8230	14839	Scaffold	Illumina HiSeq	PRJNA431477	Perilla frutescens var. crispa	Japan:Osaka	2006-07
+GCF_013390195.1	Colletotrichum siamense	Cg363	62936415	51	22	5441060	5441060	Contig	PacBio Sequel	PRJNA476648	strawberry	Japan: Chiba	2007
+GCA_008520285.1	Colletotrichum siamense		55961623	52.5	299	734081	927217	Scaffold	Illumina HiSeq	PRJNA504379		Thailand: Chiang Mai	2008-01-16
+GCA_011426375.1	Colletotrichum siamense	COLG-38	55426472	52.5	472	270039	5443879	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011426385.1	Colletotrichum siamense	COLG-34	50611973	52.5	1072	91764	3772317	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011428095.1	Colletotrichum siamense	COLG-50	54084473	52.5	4281	16936	16939	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011428115.1	Colletotrichum siamense	COLG-44	55623133	52.5	4417	17122	17376	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011445115.1	Colletotrichum siamense	COLG-90	55892736	52.5	1884	49549	50399	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan: Punjab	2016
+GCA_011947465.1	Colletotrichum siamense	CsLH17	60116880	52	319	441266	441266	Contig	Illumina HiSeq	PRJNA613862	Camellia oleifera	China: Huna	2017-02-12
+GCA_013201745.1	Colletotrichum siamense	CAD2	58148672	52.5	290	493461	709060	Scaffold	Illumina HiSeq	PRJNA476648	Manihot esculenta	Viet Nam:TuliemHanoi	2014
+GCA_013201755.1	Colletotrichum siamense	CAD5	57642425	52.5	322	536909	656815	Scaffold	Illumina HiSeq	PRJNA476648	Manihot esculenta	Viet Nam:BencatBinhduong	2013
+GCA_013201795.1	Colletotrichum siamense	CAD4	58153656	52.5	304	572163	823408	Scaffold	Illumina HiSeq	PRJNA476648	Manihot esculenta	Viet Nam:ThachthatHanoi	2014
+GCA_013201865.1	Colletotrichum siamense	CAD1	58399603	52.5	393	603962	881809	Scaffold	Illumina HiSeq	PRJNA476648	Manihot esculenta	Viet Nam: BariaVungtau	2013
+GCA_013390195.1	Colletotrichum siamense	Cg363	62936415	51	22	5441060	5441060	Contig	PacBio Sequel	PRJNA476648	strawberry	Japan: Chiba	2007
+GCA_014705055.1	Colletotrichum siamense	KY748	57077230	52.5	2961	44229	114013	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2017-05-24
+GCA_014705105.1	Colletotrichum siamense	KY687	57441683	52.5	2022	61874	207360	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Kentucky	2016
+GCA_014705195.1	Colletotrichum siamense	KY777	57710956	52.5	2456	57396	179466	Scaffold	Illumina NextSeq	PRJNA625663	Prunus persica	USA:Kentucky	2017
+GCA_014705345.1	Colletotrichum siamense	KY8	57566763	52.5	2498	45768	77820	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-07-25
+GCA_014705385.1	Colletotrichum siamense	KY540	58415579	52.5	3438	37220	59953	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2015-07-21
+GCA_014705405.1	Colletotrichum siamense	KY254	58481968	52.5	2963	40575	67367	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-09-30
+GCA_014705435.1	Colletotrichum siamense	KY146	58125311	52.5	3148	36516	59576	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-09-16
+GCA_014706345.1	Colletotrichum siamense	HBCG01	58357740	52.5	24	4579047	4579047	Contig	Oxford Nanopore	PRJNA597657	Hevea brasiliensis	China:Hainan	2012-08
+GCA_027406165.1	Colletotrichum siamense	YN56	60424442	51.5	17	5203128	5203128	Contig	PacBio Sequel	PRJNA872318		China:yunnan province	2018
+GCA_027406245.1	Colletotrichum siamense	GD10	56189955	52.5	14	4998354	4998354	Contig	PacBio Sequel	PRJNA872318		China:guangdong province	2018
+GCA_031009615.1	Colletotrichum siamense		55831030	53	563	506610	506610	Contig	Illumina	PRJNA935342	African yam bean	Nigeria: Cross river	2019
+GCA_038023885.1	Colletotrichum siamense	HN08	56819887	52.5	10	6661935	6661935	Complete Genome	PacBio HiFi Revio	PRJNA1092795	Hevea brasiliensis	China:Hainan	2013
+GCA_047496625.1	Colletotrichum siamense	GUCC 12174	59282255	52.5	19	4916557	4916557	Contig	Illumina NovaSeq; PacBio Sequel	PRJNA898668	Ilex chinensis	China:Guizhou	2017-10-30
+GCA_057924295.1	Colletotrichum siamense	CREADC-F2481	56635900	52.5	231	588468	860339	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Venezia, Eraclea	2021-03-25
+GCA_059059245.1	Colletotrichum siamense	CBS 194.32	55077187	53	16	5201318	5201318	Contig	Oxford Nanopore GridION	PRJNA1062589	Malus sylvestris	missing	1932
+GCA_004367935.1	Colletotrichum sidae	CBS 518.97	86827816	38	14933	36815	39310	Scaffold	Illumina HiSeq	PRJNA445190	Sida spinosa	USA:Arkansas	1991
+GCA_057627585.1	Colletotrichum simmondsii	IMI346326	50862996	51.5	139	728524	1324017	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Australia	1967
+GCA_001563135.1	Colletotrichum simmondsii	CBS122122	50474234	52	3860	55252	292136	Scaffold	Illumina	PRJNA239224	Carica papaya	Australia	1987-05
+GCA_020457885.1	Colletotrichum simmondsii	42936	49176323	52.5	1987	53980	53980	Contig	Illumina HiSeq	PRJNA657976	almond	Australia	1969
+GCA_057627705.1	Colletotrichum simmondsii	IMI345034	50794310	51.5	166	520619	904317	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	Australia	1991
+GCA_057924145.1	Colletotrichum sojae	C141	50237763	55	818	157304	183279	Scaffold	Illumina NovaSeq	PRJNA1458005	Juglans regia	Italy: Veneto, Rovigo, Adria	2023-08-08
+GCA_014235955.1	Colletotrichum sojae	LFN0009	49351125	56	1253	93216	104192	Scaffold	Illumina MiSeq	PRJNA577398	Glycine max	Brazil: Claudia, Mato Grosso	2013-05-02
+GCA_030867255.1	Colletotrichum somersetense	CBS 131599	53667270	50	1403	117922	180118	Scaffold	Illumina	PRJNA262441	not applicable	missing	missing
+GCA_059792015.1	Colletotrichum sp. AMP-2025a	AMP-2025a	77364018	41	2075	142314	176399	Scaffold	Illumina NovaSeq	PRJNA1233329	Banana	Colombia:Antioquia,Carepa	2020-04-16
+GCA_044063575.1	Colletotrichum sp. CLE4	CLE4	48026924	52.5	363	237235	506655	Scaffold	Illumina HiSeq 4000	PRJNA1140278	Zostera marina	USA: Bodega Bay, CA	2018-05-31
+GCA_009801095.1	Colletotrichum sp. COLG25	COLG25	56915549	52.5	182	714863	5370971	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan:Punjab	2016
+GCA_009800995.1	Colletotrichum sp. COLG31	COLG31	53760195	52.5	722	162796	4980158	Scaffold	Illumina HiSeq	PRJNA554995	Citrus	Pakistan:Punjab	2016
+GCA_014705495.1	Colletotrichum sp. HC278	HC278	53185075	53.5	16948	5545	8480	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_014705525.1	Colletotrichum sp. HC292	HC292	54637437	53.5	6973	18742	29983	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013
+GCA_003122705.1	Colletotrichum sp. JS-367	JS-367	87196530	47.5	70	8071359	8071359	Scaffold	PacBio; Illumina HiSeq	PRJNA368787		South Korea	2016-06
+GCA_025328335.1	Colletotrichum sp. SAR 10_65	SAR 10_65	59664880	51.5	1174	121239	121239	Contig	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_028639655.1	Colletotrichum sp. SAR 10_66	SAR 10_66	61044235	51	1334	114296	114296	Contig	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025327165.1	Colletotrichum sp. SAR 10_70	SAR 10_70	59535609	51.5	1014	132840	132840	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025327135.1	Colletotrichum sp. SAR 10_71	SAR 10_71	59858058	51.5	1200	118449	118449	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025327155.1	Colletotrichum sp. SAR 10_75	SAR 10_75	60807691	51.5	1046	142260	143811	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025327145.1	Colletotrichum sp. SAR 10_76	SAR 10_76	60132265	51	1215	115369	115369	Contig	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025330015.1	Colletotrichum sp. SAR 10_77	SAR 10_77	60541510	51.5	1171	116320	116320	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025327125.1	Colletotrichum sp. SAR 10_86	SAR 10_86	60722520	51.5	1704	96072	96072	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Cameroon	not collected
+GCA_025329375.1	Colletotrichum sp. SAR 10_96	SAR 10_96	56155263	52.5	1569	100534	100534	Contig	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Peru	not collected
+GCA_025329385.1	Colletotrichum sp. SAR 10_98	SAR 10_98	56034424	52.5	1197	116100	116100	Contig	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Peru	not collected
+GCA_028654355.1	Colletotrichum sp. SAR 10_99	SAR 10_99	56736506	52.5	1373	99053	99053	Scaffold	Illumina MiSeq	PRJNA728692	Hevea brasiliensis	Peru	not collected
+GCA_025328985.1	Colletotrichum sp. SAR11_239	SAR11_239	58100508	52	1160	145788	145788	Scaffold	Illumina MiSeq	PRJNA728692	Theobroma cacao	Indonesia	not collected
+GCA_025328625.1	Colletotrichum sp. SAR11_240	SAR11_240	60035199	51.5	1034	134203	134203	Scaffold	Illumina MiSeq	PRJNA728692	Persea americana	Indonesia	not collected
+GCA_025328355.1	Colletotrichum sp. SAR11_57	SAR11_57	55451972	53	1795	97317	97546	Scaffold	Illumina MiSeq	PRJNA728692	Persea americana	Panama	not collected
+GCA_025328345.1	Colletotrichum sp. SAR11_59	SAR11_59	65090038	49	2878	80323	80713	Scaffold	Illumina MiSeq	PRJNA728692	Mangifera indica	Panama	not collected
+GCF_022836535.1	Colletotrichum spaethianum	MAFF 239500	50915707	51	84	1120470	1120470	Contig	PacBio RS2	PRJDB11870	Polygonatum falcatum	Japan:Kagawa	2001-05
+GCA_022836535.1	Colletotrichum spaethianum	MAFF 239500	50915707	51	84	1120470	1120470	Contig	PacBio RS2	PRJDB11870	Polygonatum falcatum	Japan:Kagawa	2001-05
+GCA_058130255.1	Colletotrichum speciosum	CGMCC 3.16081	49630115	52.5	76	2047185	2406244	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Simao county	2016-08
+GCA_058130235.1	Colletotrichum spicati	CGMCC 3.18942	53071071	53	604	566587	640552	Scaffold	Illumina NovaSeq	PRJNA1452218	Myriophyllum spicatum	China: Guizhou province, Weining county, Caohai nature reserve	2015-08
+GCA_004366825.1	Colletotrichum spinosum	CBS 515.97	82734851	38.5	10895	56120	93593	Scaffold	Illumina HiSeq	PRJNA445190	Xanthium spinosum	Australia:New South Wales	1983-03-20
+GCA_058130215.1	Colletotrichum subhenanense	CGMCC 3.16073	58863695	52	1228	323542	328529	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Cangyuan county	2016-08
+GCA_020631755.1	Colletotrichum sublineola	CsGL1	67666679	46	74	2691276	2691276	Contig	PacBio Sequel II	PRJNA659716	Sorghum bicolor	not applicable	2020-07
+GCA_000696135.1	Colletotrichum sublineola	TX430BB	46755813	53.5	6383	13516	70717	Scaffold	Illumina GAII	PRJNA246670	Sorghum bicolor	USA: Texas	1985
+GCA_001951195.1	Colletotrichum sublineola	CgSl1	64848627	46.5	3399	44622	339276	Scaffold	454	PRJNA356071	Sorghum bicolor	USA: Indiana	1982
+GCA_030867325.1	Colletotrichum sublineola	S3.001	46916122	53	1675	63545	83759	Scaffold	Illumina	PRJNA262370	not applicable	missing	missing
+GCA_036851105.1	Colletotrichum tabaci	YC1	52145981	54	58	3611167	3611167	Contig	PacBio RSII	PRJNA962315	Nicotiana tabacum	China	2020-08-20
+GCF_030869305.1	Colletotrichum tamarilloi	Tom-12	52071711	51	605	410822	410822	Scaffold	Illumina MiSeq	PRJNA348678	Solanum betaceum	Colombia: Antioquia, Santa Rosa	1998
+GCA_030869305.1	Colletotrichum tamarilloi	Tom-12	52071711	51	605	410822	410822	Scaffold	Illumina MiSeq	PRJNA348678	Solanum betaceum	Colombia: Antioquia, Santa Rosa	1998
+GCA_054857445.1	Colletotrichum tamarilloi		51879513	51	2784	39131	39671	Scaffold	Illumina HiSeq	PRJNA1395023	Solanum betaceum	Colombia: Antioquia, Santa Rosa	1998
+GCA_005350895.1	Colletotrichum tanaceti		57912474	49.5	6408	36517	103135	Scaffold	Illumina	PRJNA421029	Tanacetum cinerariifolium	Australia:University of Melbourne, Parkville	2013
+GCA_026229895.1	Colletotrichum tanaceti	BRIP57315	51501111	52.5	10852	9510	10040	Scaffold	Illumina	PRJNA492188	Tanacetum cinerariifolium	Australia:Tasmania, Ulverstone	2013
+GCA_058130175.1	Colletotrichum tengchongense	CGMCC 3.18950	56964709	52.5	602	338523	355482	Scaffold	Illumina NovaSeq	PRJNA1452218	Isoetes sinensis	China: Yunnan province, Tengchong city	2014-08
+GCA_057627305.1	Colletotrichum theobromicola	IMI391663	59024348	51.5	414	347810	585870	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	State of Palestine	2000
+GCA_014705045.1	Colletotrichum theobromicola	CF75	55881512	52.5	2534	59058	123512	Scaffold	Illumina NextSeq	PRJNA625663	Fragaria x ananassa	USA:Mississippi	1981
+GCA_014705415.1	Colletotrichum theobromicola	KY152	56531194	52.5	6954	15820	23897	Scaffold	Illumina NextSeq	PRJNA625663	Malus domestica	USA:Kentucky	2013-09-20
+GCA_057627535.1	Colletotrichum theobromicola	IMI348182	56191254	52.5	360	361126	473936	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA: Florida	1991
+GCA_057627875.1	Colletotrichum theobromicola	IMI324985	56137359	52.5	325	395011	544046	Scaffold	Illumina NovaSeq	PRJNA1376502	Strawberry	USA	1988
+GCA_022836555.1	Colletotrichum tofieldiae	MAFF 712333	54252643	53	19	6011218	6011218	Contig	PacBio RS2	PRJDB11870	Eliokarmos dubius	Japan:Yamagata	2003-03
+GCA_001618705.1	Colletotrichum tofieldiae	CBS 168.49	52962735	53	1303	284889	294339	Scaffold	Illumina HiSeq	PRJNA286723	Lupinus polyphyllus	Germany: Berlin-Dahlem	1932-10
+GCA_001618715.1	Colletotrichum tofieldiae	CBS 127615	52719552	53	794	372643	377287	Scaffold	Illumina HiSeq	PRJNA286721	Agapanthus sp.	Portugal	missing
+GCA_001618725.1	Colletotrichum tofieldiae	CBS 495.85	53491261	53.5	1663	245346	245346	Scaffold	Illumina HiSeq	PRJNA286757	Tofieldia calyculata	Switzerland: Graubuenden	1985-07
+GCA_001618735.1	Colletotrichum tofieldiae	CBS 130851	53216229	52.5	477	364528	364528	Scaffold	Illumina HiSeq	PRJNA286720	Semele androgyna	Germany: Berlin	2010-12
+GCA_001625265.1	Colletotrichum tofieldiae	0861	52836184	53.5	1048	209340	209340	Scaffold	454;Illumina HiSeq	PRJNA286731	Arabidopsis thaliana	Spain: Las Rozas	2008
+GCA_022836575.1	Colletotrichum tofieldiae	MAFF 712334	53983402	53	27	3719715	3719715	Contig	PacBio RS2	PRJDB11870	Eliokarmos dubius	Japan:Yamagata	2003-03
+GCA_022836595.1	Colletotrichum tofieldiae	0861	52991954	53	28	4211846	4211846	Contig	PacBio RS2	PRJDB11870	Arabidopsis thaliana	Spain:Las Rozas	2008
+GCA_004367215.1	Colletotrichum trifolii	543-2	109659959	36.5	16095	26965	35434	Scaffold	Illumina HiSeq; PacBio RSII	PRJNA506861	Medicago sativa	Japan: Chiba	1966
+GCA_027406125.1	Colletotrichum tropicale	HN32	56942285	52.5	13	5037009	5037009	Contig	PacBio Sequel	PRJNA872318		China:hainan province	2018
+GCA_013201785.1	Colletotrichum tropicale	CgS9275	55848179	52.5	939	343236	691924	Scaffold	Illumina HiSeq	PRJNA476648	mulberry	Japan:Okinawa	1992-11
+GCA_027942835.1	Colletotrichum tropicale	IMI 366226	54633813	53.5	1788	63560	63560	Contig	Illumina NovaSeq; Oxford Nanopore MinION	PRJNA786750	Manikara bidentata	Puerto Rico	1994
+GCA_060697215.1	Colletotrichum tropicale	PPO96	56660673	52.5	149	690988	1054543	Scaffold	NovaSeq6000	PRJNA1489783		Japan: Okinawa Prefecture, Itoman	2021-11
+GCA_025962755.1	Colletotrichum tropicicola	FJ4	55108579	54.5	1074	113007	120602	Scaffold	Illumina NovaSeq	PRJNA889704	Guanxi pomelo	China:Fujian	2018
+GCF_014235925.2	Colletotrichum truncatum	CMES1059	57008971	49.5	22	4568912	4568912	Contig	Illumina NovaSeq; PacBio RSII	PRJNA563581	Glycine max	Brazil: Londrina, Parana	2004
+GCA_002632455.2	Colletotrichum truncatum	MTCC 3414	57912832	49.5	4151	29525	2268405	Scaffold	PacBio; Illumina HiSeq	PRJNA380187	Capsicum annuum	India: Pondicherry	2000-01-01
+GCA_008131165.1	Colletotrichum truncatum		59632073	51.5	6661	49640	132868	Scaffold	Illumina NextSeq	PRJNA531610		India: Andhra Pradesh	2014-09-17
+GCA_011947275.1	Colletotrichum truncatum	KLC.C- 4	44146251	49.5	1396	58895	1509490	Scaffold	Illumina HiSeq	PRJNA594831	Capsicum annuum	India: kurnool	2014-12-22
+GCA_014235925.2	Colletotrichum truncatum	CMES1059	57008971	49.5	22	4568912	4568912	Contig	Illumina NovaSeq; PacBio RSII	PRJNA563581	Glycine max	Brazil: Londrina, Parana	2004
+GCA_031008025.1	Colletotrichum truncatum		54793555	49	1240	161938	161938	Contig	Illumina	PRJNA935342	African yam bean	Nigeria: Ibadan	2019
+GCA_020226115.1	Colletotrichum viniferum	CvYL2a	73406341	45	70	2103953	2103953	Contig	Illumina NovaSeq; PacBio Sequel	PRJNA714705	Vitis vinifera cv. Kyoho	China:Yangling	2019-06
+GCA_013201765.1	Colletotrichum viniferum	CGW01	68452207	47	6103	107975	144434	Scaffold	Illumina HiSeq	PRJNA476648	grape	Japan:Hiroshima	2012-08
+GCA_058130195.1	Colletotrichum vulgaris	CGMCC 3.18940	49165815	54	1316	127419	136893	Scaffold	Illumina NovaSeq	PRJNA1452218	Hippuris vulgaris	China: Sichuan province, Tibetan autonomous prefecture of Garz, Baiyu county	2015-08
+GCA_058130155.1	Colletotrichum yuanjiangense	CGMCC 3.18964	57718958	52	849	484413	496558	Scaffold	Illumina NovaSeq	PRJNA1452218	Ageratina adenophora	China: Yunnan province, Yuanjiang county	2017-08
+GCA_030867305.1	Colletotrichum zoysiae	MAFF 238573	46533813	54	840	129783	179109	Scaffold	Illumina	PRJNA262217	not applicable	missing	missing
